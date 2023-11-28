@@ -17,7 +17,7 @@ redirect_from:
 
 Currently, i'm a graduate student in the [SCHOOL OF COMPUTER SCIENCE AND ENGINEERING](https://cse.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/) as a member of [HCP Lab](https://www.sysu-hcp.net/), advised by Associate Professor [Keze Wang](https://kezewang.com/).
 
-Before that, I obtained my Bachelor degree in Software Engineering from [Jilin University](https://www.jlu.edu.cn/). In my undergraduate studies, I did research on bioinformatics under the supervision of Professor [Fengfeng Zhou](http://ccst.jlu.edu.cn/info/1026/15732.htm). At the same time, I also worked on software development (As the leader of a “National innovation project for undergraduate student” project.) and Re-id problem under the supervision of Associate Professor [Xiaosong Han](http://ccst.jlu.edu.cn/info/1312/15690.htm).
+Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Program in Engineering)](http://csw.jlu.edu.cn/info/1080/2824.htm) from [Jilin University](https://www.jlu.edu.cn/). In my undergraduate studies, I did research on bioinformatics under the supervision of Professor [Fengfeng Zhou](http://ccst.jlu.edu.cn/info/1026/15732.htm). At the same time, I also worked on software development (As the leader of a “National innovation project for undergraduate student” project.) and Re-id problem under the supervision of Associate Professor [Xiaosong Han](http://ccst.jlu.edu.cn/info/1312/15690.htm).
 
 
 
@@ -30,13 +30,13 @@ Before that, I obtained my Bachelor degree in Software Engineering from [Jilin U
 <h1 style="color: rgb(231, 65, 65);"><b>What's new:</b></h1>
 <div style="line-height: 1.5em; font-size: 0.95em">
   <p>
-  <b>[10/2023]</b> One paper about Re-id problem is accepted by "Pattern Recognition Letters"(PRL, CCF C)! <br>
+  <b>[10/2023]</b> One paper about Re-id problem is accepted by "Pattern Recognition Letter
+</div>
+s"(PRL, CCF C)! <br>
   <b>[10/2022]</b> I won Jilin Bank Wang Xiang-hao scholarship! <br>
   <b>[09/2022]</b> I am successfully admitted to Sun Yat-sen University as MPhil in Computer Science and Technology!<br>
   <b>[12/2021]</b> One paper(chinese) is accepted by "Computer Science"(CCF B, chinese), this is my first paper! <br>
   </p>
-</div>
-
 
 # Experience
 <!-- <h2><b>Experience</b></h2> -->
@@ -46,7 +46,7 @@ Before that, I obtained my Bachelor degree in Software Engineering from [Jilin U
       <img src='images/sysu-removebg-preview.png' width="300">
     </td>
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
-      <b><a href="https://www.sysu.edu.cn//">Sun Yat-sen University</a></b>
+      <b><a href="https://cse.sysu.edu.cn/">CSE</a>, Sun Yat-sen University</b>
       <br>
       Master of Computer Science and Technology.(Sept. 2023 - Now)
       <br>
@@ -100,7 +100,7 @@ Before that, I obtained my Bachelor degree in Software Engineering from [Jilin U
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
       <b>"E3ID: An Efficient End to End Person Search Model"</b>
       <br>
-      Siyang Wang, Yanchun Liang, Ao Li, <u>Zeqing Wang</u> and Xiaosong Han. <i>Pattern Recognition Letters</i>. 
+      Siyang Wang, Yanchun Liang, Ao Li, <u>Zeqing Wang</u> and Xiaosong Han. <i>Pattern Recognition Letters(CCF-C)</i>. 
       <br>
       [<a href="https://www.sciencedirect.com/science/article/pii/S0167865523003094">Paper</a>]
       <!-- [<a href="https://github.com/Zeqing-Wang/Reco-PMW">Github</a>] -->
