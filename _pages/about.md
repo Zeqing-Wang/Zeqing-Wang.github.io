@@ -32,7 +32,7 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
   <b>[12/2021]</b> One paper(chinese) is accepted by "Computer Science"(CCF B, chinese), this is my first paper! <br>
   </p>
 
-# Experience
+**Experience**
 <!-- <h2><b>Experience</b></h2> -->
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
   <tr>
@@ -81,7 +81,7 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
   </tr>
 </table>
 
-# Publications
+**Publications**
 <!-- <h2><b>Publications</b></h2> -->
 <table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
   <tr>
@@ -121,7 +121,7 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
 <!-- <h4><b>Miscellaneous</b></h4> -->
 <!-- <h5><i>Articles & Projects</i></h5> -->
 
-### *Selected Honors*
+**Selected Honors**
 
 <table style="border:none;font-size:0.95em;">
   <tr>
@@ -162,7 +162,8 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
   </tr>
 </table>
 
-### *Interests*
+**Interests**
+
 
 I am a fan of Team WE, the team of LPL. So, lol is a part of my life.
 
