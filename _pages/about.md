@@ -19,10 +19,6 @@ Currently, i'm a graduate student in the [SCHOOL OF COMPUTER SCIENCE AND ENGINEE
 
 Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Program in Engineering)](http://csw.jlu.edu.cn/info/1080/2824.htm) from [Jilin University](https://www.jlu.edu.cn/). In my undergraduate studies, I did research on bioinformatics under the supervision of Professor [Fengfeng Zhou](http://ccst.jlu.edu.cn/info/1026/15732.htm). At the same time, I also worked on software development (As the leader of a “National innovation project for undergraduate student” project.) and Re-id problem under the supervision of Associate Professor [Xiaosong Han](http://ccst.jlu.edu.cn/info/1312/15690.htm).
 
-
-
-
-
 **Contact me via**:  
   <i class="fa fa-fw fa-envelope"></i> <font style="font-size: 0.9em;">Mail: <a href="mailto:wangzeqing1005@163.com">wangzeqing1005[AT]163.com</a> or <a href="mailto:wangzq73@mail2.sysu.edu.cn">wangzq73[AT]mail2.sysu.edu.cn</a></font>
 <br>
@@ -87,7 +83,6 @@ s"(PRL, CCF C)! <br>
   </tr>
 </table>
 
-
 # Publications
 <!-- <h2><b>Publications</b></h2> -->
 <table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
@@ -100,7 +95,7 @@ s"(PRL, CCF C)! <br>
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
       <b>"E3ID: An Efficient End to End Person Search Model"</b>
       <br>
-      Siyang Wang, Yanchun Liang, Ao Li, <u>Zeqing Wang</u> and Xiaosong Han. <i>Pattern Recognition Letters(CCF-C)</i>. 
+      Siyang Wang, Yanchun Liang, Ao Li, <u>Zeqing Wang</u> and Xiaosong Han. <i>Pattern Recognition Letters(CCF-C)</i>.
       <br>
       [<a href="https://www.sciencedirect.com/science/article/pii/S0167865523003094">Paper</a>]
       <!-- [<a href="https://github.com/Zeqing-Wang/Reco-PMW">Github</a>] -->
@@ -116,7 +111,7 @@ s"(PRL, CCF C)! <br>
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
       <b>"A Novel College Entrance Filling Recommendation Algorithm Based on Score Line Prediction and Multi-feature Fusion"</b>
       <br>
-      <u>Zeqing Wang</u> Shengpeng Ji, Xin Li, Zixuan Zhao, Pengxu Wang, Xiaosong Han. <i>Computer Science(Chinese, CCF-B)</i>. 
+      <u>Zeqing Wang</u> Shengpeng Ji, Xin Li, Zixuan Zhao, Pengxu Wang, Xiaosong Han. <i>Computer Science(Chinese, CCF-B)</i>.
       <br>
       [<a href="https://www.jsjkx.com/CN/10.11896/jsjkx.211100266">Paper</a>]
       [<a href="https://github.com/Zeqing-Wang/Reco-PMW">Github</a>]
@@ -124,7 +119,6 @@ s"(PRL, CCF C)! <br>
   </tr>
 
 </table>
-
 
 <!-- <h4><b>Miscellaneous</b></h4> -->
 <!-- <h5><i>Articles & Projects</i></h5> -->
@@ -172,7 +166,7 @@ s"(PRL, CCF C)! <br>
 
 ### *Interests*
 
-I am a fan of Team WE, the team of LPL. So, lol is a part of my life(Also Arknights!). Besides, although i am noob in FPS games, i still try to play APEX.
+I am a fan of Team WE, the team of LPL. So, lol is a part of my life.
 
 Apart from games, i often play badminton though sports is difficult for me.
 
