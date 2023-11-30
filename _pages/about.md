@@ -26,9 +26,7 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
 <h1 style="color: rgb(231, 65, 65);"><b>What's new:</b></h1>
 <div style="line-height: 1.5em; font-size: 0.95em">
   <p>
-  <b>[10/2023]</b> One paper about Re-id problem is accepted by "Pattern Recognition Letter
-</div>
-s"(PRL, CCF C)! <br>
+  <b>[10/2023]</b> One paper about Re-id problem is accepted by "Pattern Recognition Letters"(PRL, CCF C)! <br>
   <b>[10/2022]</b> I won Jilin Bank Wang Xiang-hao scholarship! <br>
   <b>[09/2022]</b> I am successfully admitted to Sun Yat-sen University as MPhil in Computer Science and Technology!<br>
   <b>[12/2021]</b> One paper(chinese) is accepted by "Computer Science"(CCF B, chinese), this is my first paper! <br>
@@ -64,7 +62,7 @@ s"(PRL, CCF C)! <br>
       <img src='images/jluselogo.png' width="300">
     </td>
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
-      <b><a href="http://csw.jlu.edu.cn/">College Of Software</a>, Jilin University.</b>
+      <b><a href="http://csw.jlu.edu.cn/">College Of Software</a>, Jilin University</b>
       <br>
       Bachelor of Software Engineering.(Sept. 2019 - Jun. 2023)
       <br>
@@ -75,7 +73,7 @@ s"(PRL, CCF C)! <br>
       <img src='images/zz7zlogo.png' width="300">
     </td>
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
-      <a href="http://zz7z.zzedu.net.cn/"><b>Zhengzhou No.7 Middle School</b></a>.
+      <a href="http://zz7z.zzedu.net.cn/"><b>Zhengzhou No.7 Middle School</b></a>
       <br>
       Middle School.(Sept. 2013 - Jun. 2019)
       <br>
