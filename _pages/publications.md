@@ -20,7 +20,7 @@ author_profile: true
     <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
       <b>1. "A Novel College Entrance Filling Recommendation Algorithm Based on Score Line Prediction and Multi-feature Fusion"</b>, 
       <br>
-      <u>Zeqing Wang</u>, et al.,
+      <u>Zeqing Wang</u>, Shengpeng Ji, Xin Li, Zixuan Zhao, Pengxu Wang, Xiaosong Han.
       <br>
       <i>Computer Science (<b>计算机科学</b>)</i>. 
       <br>
@@ -30,6 +30,23 @@ author_profile: true
     <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
       <a href="/images/gaokao.png">
       <img src='/images/gaokao.png' width="300">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <b>2. "E3ID: An Efficient End to End Person Search Model"</b>, 
+      <br>
+      Siyang Wang, Yanchun Liang, Ao Li, <u>Zeqing Wang</u> and Xiaosong Han. 
+      <br>
+      <i>Pattern Recognition Letters(<b>PRL</b>)</i>. 
+      <br>
+      [<a href="https://www.sciencedirect.com/science/article/pii/S0167865523003094">Paper</a>]
+    </td>
+    <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <a href="/images/e3id.png">
+      <img src='/images/e3id.png' width="300">
       </a>
     </td>
   </tr>

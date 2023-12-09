@@ -16,7 +16,7 @@ Education
 
 * B.Sc. in Software Engineering, [Jilin University](https://www.jlu.edu.cn/), 2019 - 2023
   * @College Of Software
-  * GPA: 3.80/4.0, Ave. Score: 91.48/100
+  * GPA: 3.80/4.0, Ave. Score: 91.48/100, Rank: Top3%
 
 Selected Honors & Awards
 
