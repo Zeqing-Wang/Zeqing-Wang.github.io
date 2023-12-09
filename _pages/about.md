@@ -86,19 +86,14 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
 **Publications**
 <!-- <h2><b>Publications</b></h2> -->
 <table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
+
   <tr>
-    <!-- <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
-      <a href="images/gaokao.png">
-      <img src='images/gaokao.png' width="300">
-      </a>
-    </td> -->
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
       <b>"E3ID: An Efficient End to End Person Search Model"</b>
       <br>
       Siyang Wang, Yanchun Liang, Ao Li, <u>Zeqing Wang</u> and Xiaosong Han. <i>Pattern Recognition Letters(CCF-C)</i>.
       <br>
       [<a href="https://www.sciencedirect.com/science/article/pii/S0167865523003094">Paper</a>]
-      <!-- [<a href="https://github.com/Zeqing-Wang/Reco-PMW">Github</a>] -->
     </td>
   </tr>
   
