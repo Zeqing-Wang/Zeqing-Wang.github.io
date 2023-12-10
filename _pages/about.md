@@ -26,7 +26,7 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
 <h1 style="color: rgb(231, 65, 65);"><b>What's new:</b></h1>
 <div style="line-height: 1.5em; font-size: 0.95em">
   <p>
-  <b>[12/2023]</b> One paper about Audio Driven 3D Facial Animation is accepted by AAAI(CCF A)! <br>
+  <b>[12/2023]</b> One paper about Audio Driven 3D Facial Animation is accepted by AAAI2024(CCF A)! <br>
   <b>[10/2023]</b> One paper about Re-id problem is accepted by "Pattern Recognition Letters"(PRL, CCF C)! <br>
   <b>[10/2022]</b> I won Jilin Bank Wang Xiang-hao scholarship! <br>
   <b>[09/2022]</b> I am successfully admitted to Sun Yat-sen University as MPhil in Computer Science and Technology!<br>
