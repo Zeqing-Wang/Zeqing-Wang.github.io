@@ -86,6 +86,16 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
 **Publications**
 <!-- <h2><b>Publications</b></h2> -->
 <table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
+  <tr>
+    <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
+      <b>"Mimic: Speaking Style Disentanglement for Speech-Driven 3D Facial Animation"</b>
+      <br>
+      Hui Fu, <u>Zeqing Wang</u>, Ke Gong, Keze Wang, Tianshui Chen, Haojie Li, Haifeng Zeng and Wenxiong Kang. <i>AAAI 2024(CCF-A)</i>.
+      <br>
+      [<a href="https://zeqing-wang.github.io/Mimic/">Project Page</a>]
+    </td>
+  </tr>
+
 
   <tr>
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
