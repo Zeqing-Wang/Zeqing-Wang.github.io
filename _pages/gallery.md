@@ -7,6 +7,15 @@ author_profile: true
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:1.0em;">
   <tr>
+    <th colspan="2" style="padding:8px;width:100%;vertical-align:middle;horizontal-align:middle;border:none;">
+    <center>Escape from reality. @Changchun, China, 2023</center>
+      <a href="/images/escape.jpg">
+      <img src='/images/escape.jpg' style="border-radius:20px;">
+      </a>
+    </th>
+  </tr>
+
+  <tr>
     <td style="padding:8px;width:50%;vertical-align:middle;horizontal-align:middle;border:none;">
     <center>Sunrise in Changchun. @Changchun, China, 2023</center>
       <a href="/images/Sunrise_in_Changchun.jpg">
