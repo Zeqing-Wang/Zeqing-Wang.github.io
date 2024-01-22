@@ -138,7 +138,7 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
     </td>
   </tr>
   <tr>
-    <td style="border:none;"><i>Jilin Bank Wang Xianghao Scholarship </i> by Jilin Bank & Jilin University.
+    <td style="border:none;"><i>Jilin Bank Wang Xianghao Scholarship</i>(The highest honor of the college) by Jilin Bank & Jilin University.
     </td>
     <td style="border:none;text-align:center;">2022
     </td>
