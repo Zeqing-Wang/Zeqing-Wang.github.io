@@ -15,7 +15,7 @@ redirect_from:
 <!-------------------->
 **Seize the day.**
 
-Currently, i'm a graduate student in the [SCHOOL OF COMPUTER SCIENCE AND ENGINEERING](https://cse.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/) as a member of [HCP Lab](https://www.sysu-hcp.net/), advised by Associate Professor [Keze Wang](https://kezewang.com/). My research interest recently relates to VLM(Vision  Language Model) ,Audio-Driven Animation and other cross-modal models.
+Currently, i'm a graduate student in the [SCHOOL OF COMPUTER SCIENCE AND ENGINEERING](https://cse.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/) as a member of [HCP Lab](https://www.sysu-hcp.net/), advised by Associate Professor [Keze Wang](https://kezewang.com/). My research interest recently relates to VLM(Vision  Language Model), Audio-Driven Animation and other cross-modal models.
 
 Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Program in Engineering)](http://csw.jlu.edu.cn/info/1080/2824.htm) from [Jilin University](https://www.jlu.edu.cn/). In my undergraduate studies, I did research on bioinformatics under the supervision of Professor [Fengfeng Zhou](http://ccst.jlu.edu.cn/info/1026/15732.htm). At the same time, I also worked on software development (Android, .Net, SpringBoot, Django etc.) and Re-id problem under the supervision of Professor [Xiaosong Han](http://ccst.jlu.edu.cn/info/1312/15690.htm).
 
