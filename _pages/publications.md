@@ -59,11 +59,11 @@ author_profile: true
       <br>
       <i>The 38th Annual AAAI Conference on Artificial Intelligence(<b>AAAI 2024</b>)</i>. 
       <br>
-      [<a href="https://www.sciencedirect.com/science/article/pii/S0167865523003094">Paper</a>]
+      [<a href="https://zeqing-wang.github.io/Mimic/">Project Page</a>]
     </td>
     <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
-      <a href="/images/e3id.png">
-      <img src='/images/e3id.png' width="300">
+      <a href="/images/mimic.png">
+      <img src='/images/mimic.png' width="300">
       </a>
     </td>
   </tr>
