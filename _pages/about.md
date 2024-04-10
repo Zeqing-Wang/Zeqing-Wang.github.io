@@ -13,7 +13,7 @@ redirect_from:
 ![MPhil](https://img.shields.io/badge/MPhil.-SYSU.%20(2023--Now)-yellowgreen?style=flat-square&color=181717&labelColor=blue)
 
 <!-------------------->
-**Seize the day.**
+**Seize the day, and do what you are passionate about.**
 
 Currently, i'm a graduate student in the [SCHOOL OF COMPUTER SCIENCE AND ENGINEERING](https://cse.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/) as a member of [HCP Lab](https://www.sysu-hcp.net/), advised by Associate Professor [Keze Wang](https://kezewang.com/). My research interest recently relates to VLM(Vision  Language Model), Audio-Driven Animation and other cross-modal models.
 
