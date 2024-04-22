@@ -150,7 +150,7 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
     </td>
   </tr>
   <tr>
-    <td style="border:none;"><i>Individual Scholarship Of Jilin Universit</i>  by Jilin University.
+    <td style="border:none;"><i>Individual Scholarship Of Jilin University</i>  by Jilin University.
     </td>
     <td style="border:none;text-align:center;">2021 & 2022
     </td>
