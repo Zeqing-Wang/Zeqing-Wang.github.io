@@ -91,7 +91,7 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
       <b>"Towards Top-Down Reasoning: An Explainable Multi-Agent Approach for Visual Question Answering"</b>
       <br>
-      <u>Zeqing Wang</u>, Wentao Wan, Qiqing Lao, Runmeng Chen, Minjie Lang, Keze Wang and Liang Lin.<i>Submitted</i>.
+      <u>Zeqing Wang</u>, Wentao Wan, Qiqing Lao, Runmeng Chen, Minjie Lang, Keze Wang and Liang Lin      <i>Submitted</i>.
       <br>
       [<a href="https://arxiv.org/pdf/2311.17331">Arxiv</a>]
     </td>
