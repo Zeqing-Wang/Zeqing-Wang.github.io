@@ -70,7 +70,7 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
       <br>
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
       <img src='images/zz7zlogo.png' width="300">
     </td>
@@ -80,12 +80,21 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
       Middle School.(Sept. 2013 - Jun. 2019)
       <br>
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 **Publications**
 <!-- <h2><b>Publications</b></h2> -->
 <table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
+  <tr>
+    <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
+      <b>"Is this Generated Person Existed in Real-world? Fine-grained Detecting and Calibrating Abnormal Human-body"</b>
+      <br>
+      <u>Zeqing Wang</u>, Qingyang Ma, Wentao Wan, Haojie Li, Keze Wang and Yonghong Tian      <i>Submitted</i>.
+      <br>
+      [<a href="https://arxiv.org/abs/2411.14205">Arxiv</a>]
+    </td>
+  </tr>
 
   <tr>
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
