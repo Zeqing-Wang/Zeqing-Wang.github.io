@@ -26,7 +26,7 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
 <h1 style="color: rgb(231, 65, 65);"><b>What's new:</b></h1>
 <div style="line-height: 1.5em; font-size: 0.95em">
   <p>
-   <b>[01/2024]</b> Start a new journey with OPPO Research Institute. <br>
+   <b>[01/2025]</b> Start a new journey with OPPO Research Institute. <br>
   <b>[12/2023]</b> One paper about Audio Driven 3D Facial Animation is accepted by AAAI2024(CCF A)! <br>
   <b>[10/2023]</b> One paper about Re-id problem is accepted by "Pattern Recognition Letters"(PRL, CCF C)! <br>
   <b>[10/2022]</b> I won Jilin Bank Wang Xiang-hao scholarship! <br>
@@ -38,6 +38,17 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
 **Experience**
 <!-- <h2><b>Experience</b></h2> -->
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
+  <tr>
+    <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
+      <img src='images/OPPO_logo.png' width="300">
+    </td>
+    <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
+      <b><a href="https://ur.oppo.com/"></a>, OPPO Research Institute</b>
+      <br>
+      MLE intern in Vision Language Model.(Jan. 2025 - Now).
+      <br>
+    </td>
+  </tr>
   <tr>
     <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
       <img src='images/sysu-removebg-preview.png' width="300">
