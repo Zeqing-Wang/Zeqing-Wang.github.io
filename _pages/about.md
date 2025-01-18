@@ -43,7 +43,7 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
       <img src='images/OPPO_logo.png' width="300">
     </td>
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
-      <b><a href="https://ur.oppo.com/"></a>, OPPO Research Institute</b>
+      <b><a href="https://ur.oppo.com/"></a>OPPO Research Institute</b>
       <br>
       MLE intern in Vision Language Model.(Jan. 2025 - Now).
       <br>
