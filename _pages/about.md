@@ -103,9 +103,9 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
       <b>"Is this Generated Person Existed in Real-world? Fine-grained Detecting and Calibrating Abnormal Human-body"</b>
       <br>
-      <u>Zeqing Wang</u>, Qingyang Ma, Wentao Wan, Haojie Li, Keze Wang and Yonghong Tian      
+      <u>Zeqing Wang</u>, Qingyang Ma, Wentao Wan, Haojie Li, Keze Wang and Yonghong Tian  <i>CVPR 2025(CCF-A)</i>.
       <br>
-      [<a href="https://arxiv.org/abs/2411.14205">CVPR 2025</a>]
+      [<a href="https://arxiv.org/abs/2411.14205">Arxiv</a>]
     </td>
   </tr>
 
