@@ -203,13 +203,9 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
 </table>
 
 **Interests**
+
 Some video games(like LOL), sports(like badminton, swimming) and a little fingerstyle guitar.
-<!-- 
-I am a fan of Team WE, the team of LPL. So, lol is a part of my life.
 
-Apart from games, i often play badminton though sports is difficult for me.
-
-Same, a noob in playing fingerstyle guitar. -->
 --------
 
 <center><b>Site Analytics</b></center>
