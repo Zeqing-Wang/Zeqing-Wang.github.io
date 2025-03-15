@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "I'm Ze-qing WANG (王泽卿)."
+title: "Hi, I'm Ze-qing WANG (王泽卿)."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
