@@ -125,7 +125,7 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
       <br>
       Hui Fu, <u>Zeqing Wang</u>, Ke Gong, Keze Wang, Tianshui Chen, Haojie Li, Haifeng Zeng and Wenxiong Kang. <i>AAAI 2024(CCF-A)</i>.
       <br>
-      [<a href="https://zeqing-wang.github.io/Mimic/">Project Page</a>]
+      [<a href="https://zeqing-wang.github.io/Mimic/">Project Page</a>][<a href="https://github.com/huifu99/Mimic">Code</a>]
     </td>
   </tr>
 
@@ -152,7 +152,7 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
       <u>Zeqing Wang</u>, Shengpeng Ji, Xin Li, Zixuan Zhao, Pengxu Wang, Xiaosong Han. <i>Computer Science(Chinese, CCF-B)</i>.
       <br>
       [<a href="https://www.jsjkx.com/CN/10.11896/jsjkx.211100266">Paper</a>]
-      [<a href="https://github.com/Zeqing-Wang/Reco-PMW">Github</a>]
+      [<a href="https://github.com/Zeqing-Wang/Reco-PMW">Code</a>]
     </td>
   </tr>
 
