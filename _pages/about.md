@@ -204,7 +204,7 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
 
 **Interests**
 
-Some video games(like LOL), sports(like badminton, swimming) and a little fingerstyle guitar.
+Some video games (like LOL), sports (like badminton, swimming) and a little fingerstyle guitar.
 
 --------
 
