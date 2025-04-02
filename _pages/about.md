@@ -27,7 +27,7 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
 <div style="line-height: 1.5em; font-size: 0.95em">
   <p>
   <b>[02/2025]</b> One paper about Abnormal Detection in Human-Body via VLM is accepted by CVPR2025(CCF A)! <br>
-  <b>[01/2025]</b> Start a new journey with OPPO Research Institute. <br>
+  <b>[01/2025]</b> Start a new journey with OPPO Research Institute, Y-Lab. <br>
   <b>[12/2023]</b> One paper about Audio Driven 3D Facial Animation is accepted by AAAI2024(CCF A)! <br>
   <b>[10/2023]</b> One paper about Re-id problem is accepted by "Pattern Recognition Letters"(PRL, CCF C)! <br>
   <b>[10/2022]</b> I won Jilin Bank Wang Xiang-hao scholarship! <br>
@@ -44,7 +44,7 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
       <img src='images/OPPO_logo.png' width="300">
     </td>
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
-      <b><a href="https://ur.oppo.com/"></a>OPPO Research Institute</b>
+      <b><a href="https://ur.oppo.com/"></a>OPPO Research Institute, Y-Lab</b>
       <br>
       MLE intern in Vision Language Model.(Jan. 2025 - Now).
       <br>
