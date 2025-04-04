@@ -26,7 +26,7 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
 <h1 style="color: rgb(231, 65, 65);"><b>What's new:</b></h1>
 <div style="line-height: 1.5em; font-size: 0.95em">
   <p>
-  <b>[02/2025]</b> One paper about Abnormal Detection in Human-Body via VLM is accepted by CVPR2025(CCF A)! <br>
+  <b>[02/2025]</b> One paper about Abnormal Detection in Human-Body via VLM is accepted by CVPR2025(CCF A)! All data will be open source after a period of time<br>
   <b>[01/2025]</b> Start a new journey with OPPO Research Institute, Y-Lab. <br>
   <b>[12/2023]</b> One paper about Audio Driven 3D Facial Animation is accepted by AAAI2024(CCF A)! <br>
   <b>[10/2023]</b> One paper about Re-id problem is accepted by "Pattern Recognition Letters"(PRL, CCF C)! <br>
@@ -103,7 +103,7 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
       <b>"Is this Generated Person Existed in Real-world? Fine-grained Detecting and Calibrating Abnormal Human-body"</b>
       <br>
-      <u>Zeqing Wang</u>, Qingyang Ma, Wentao Wan, Haojie Li, Keze Wang and Yonghong Tian  <i>CVPR 2025(CCF-A)</i>.
+      <u>Zeqing Wang</u>, Qingyang Ma, Wentao Wan, Haojie Li, Keze Wang and Yonghong Tian  <i>CVPR 2025 Highlight (CCF-A)</i>.
       <br>
       [<a href="https://arxiv.org/abs/2411.14205">Arxiv</a>]
     </td>
