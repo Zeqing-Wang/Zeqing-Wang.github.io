@@ -103,7 +103,7 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
       <b>"Is this Generated Person Existed in Real-world? Fine-grained Detecting and Calibrating Abnormal Human-body"</b>
       <br>
-      <u>Zeqing Wang</u>, Qingyang Ma, Wentao Wan, Haojie Li, Keze Wang and Yonghong Tian  <i>CVPR 2025 Highlight (CCF-A)</i>.
+      <u>Zeqing Wang</u>, Qingyang Ma, Wentao Wan, Haojie Li, Keze Wang and Yonghong Tian.  <i>CVPR 2025 **Highlight** (CCF-A)</i>.
       <br>
       [<a href="https://arxiv.org/abs/2411.14205">Arxiv</a>]
     </td>
@@ -113,7 +113,7 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
       <b>"Towards Top-Down Reasoning: An Explainable Multi-Agent Approach for Visual Question Answering"</b>
       <br>
-      <u>Zeqing Wang</u>, Wentao Wan, Qiqing Lao, Runmeng Chen, Minjie Lang, Keze Wang and Liang Lin      <i>Submitted</i>.
+      <u>Zeqing Wang</u>, Wentao Wan, Qiqing Lao, Runmeng Chen, Minjie Lang, Keze Wang and Liang Lin.      <i>Submitted</i>.
       <br>
       [<a href="https://arxiv.org/pdf/2311.17331">Arxiv</a>][<a href="https://github.com/Zeqing-Wang/Towards-Top-Down-Reasoning">Code</a>]
     </td>
