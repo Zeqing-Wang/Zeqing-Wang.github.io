@@ -26,7 +26,7 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
 <h1 style="color: rgb(231, 65, 65);"><b>What's new:</b></h1>
 <div style="line-height: 1.5em; font-size: 0.95em">
   <p>
-  <b>[02/2025]</b> One paper about Abnormal Detection in Human-Body via VLM is accepted by CVPR2025(CCF A)! All data will be open source after a period of time<br>
+  <b>[02/2025]</b> One paper about Abnormal Detection in Human-Body via VLM is accepted by CVPR2025(CCF A)! All data will be open source after a period of time. <br>
   <b>[01/2025]</b> Start a new journey with OPPO Research Institute, Y-Lab. <br>
   <b>[12/2023]</b> One paper about Audio Driven 3D Facial Animation is accepted by AAAI2024(CCF A)! <br>
   <b>[10/2023]</b> One paper about Re-id problem is accepted by "Pattern Recognition Letters"(PRL, CCF C)! <br>
