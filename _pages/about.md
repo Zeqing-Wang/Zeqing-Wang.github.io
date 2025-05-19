@@ -13,7 +13,8 @@ redirect_from:
 ![MPhil](https://img.shields.io/badge/MPhil.-SYSU.%20(2023--Now)-yellowgreen?style=flat-square&color=181717&labelColor=blue)
 
 <!-------------------->
-**Seize the day, and do what you are passionate about.**
+<!-- **Seize the day, and do what you are passionate about.** -->
+** ~~yesterday~~ **today** ~~tomorrow~~
 
 🧑‍🎓Currently, i'm a graduate student in the [SCHOOL OF COMPUTER SCIENCE AND ENGINEERING](https://cse.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/) as a member of [HCP Lab](https://www.sysu-hcp.net/), advised by Associate Professor [Keze Wang](https://kezewang.com/). My research interest recently focuses on VLM(Vision  Language Model).
 
@@ -26,7 +27,7 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
 <h1 style="color: rgb(231, 65, 65);"><b>What's new:</b></h1>
 <div style="line-height: 1.5em; font-size: 0.95em">
   <p>
-  <b>[04/2025]</b> One paper about Multi-Agent framework for VQA is accepted(🤔) by IEEE Transactions on Multimedia(CCF B)! <br>
+  <!-- <b>[04/2025]</b> One paper about Multi-Agent framework for VQA is accepted(🤔) by IEEE Transactions on Multimedia(CCF B)! <br> -->
   <b>[02/2025]</b> One paper about Abnormal Detection in Human-Body via VLM is accepted by CVPR2025(CCF A)! All data will be open source after a period of time. <br>
   <b>[01/2025]</b> Start a new journey with OPPO Research Institute, Y-Lab. <br>
   <b>[12/2023]</b> One paper about Audio Driven 3D Facial Animation is accepted by AAAI2024(CCF A)! <br>
@@ -114,7 +115,8 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
       <b>"Towards Top-Down Reasoning: An Explainable Multi-Agent Approach for Visual Question Answering"</b>
       <br>
-      <u>Zeqing Wang</u>, Wentao Wan, Qiqing Lao, Runmeng Chen, Minjie Lang, Keze Wang and Liang Lin.      <i>IEEE Transactions on Multimedia (CCF-B, Q1)</i>.
+      <u>Zeqing Wang</u>, Wentao Wan, Qiqing Lao, Runmeng Chen, Minjie Lang, Keze Wang and Liang Lin.      
+      <!-- <i>IEEE Transactions on Multimedia (CCF-B, Q1)</i>. -->
       <br>
       [<a href="https://arxiv.org/pdf/2311.17331">Arxiv</a>][<a href="https://github.com/Zeqing-Wang/Towards-Top-Down-Reasoning">Code</a>]
     </td>
