@@ -14,7 +14,7 @@ redirect_from:
 
 <!-------------------->
 <!-- **Seize the day, and do what you are passionate about.** -->
-** ~~yesterday~~ **today** ~~tomorrow~~
+~~**Yesterday**~~ **Today** ~~**Tomorrow**~~
 
 🧑‍🎓Currently, i'm a graduate student in the [SCHOOL OF COMPUTER SCIENCE AND ENGINEERING](https://cse.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/) as a member of [HCP Lab](https://www.sysu-hcp.net/), advised by Associate Professor [Keze Wang](https://kezewang.com/). My research interest recently focuses on VLM(Vision  Language Model).
 
