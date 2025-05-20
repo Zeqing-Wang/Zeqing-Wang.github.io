@@ -121,6 +121,21 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
     </td>
   </tr>
   <tr>
+    <!-- <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
+      <a href="images/gaokao.png">
+      <img src='images/gaokao.png' width="300">
+      </a>
+    </td> -->
+    <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
+      <b>"A Novel College Entrance Filling Recommendation Algorithm Based on Score Line Prediction and Multi-feature Fusion"</b>
+      <br>
+      <u>Zeqing Wang</u>, Shengpeng Ji, Xin Li, Zixuan Zhao, Pengxu Wang, Xiaosong Han. <i>Computer Science(Chinese, CCF-B)</i>.
+      <br>
+      [<a href="https://www.jsjkx.com/CN/10.11896/jsjkx.211100266">Paper</a>]
+      [<a href="https://github.com/Zeqing-Wang/Reco-PMW">Code</a>]
+    </td>
+  </tr>
+  <tr>
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
       <b>"TimeCausality: Evaluating the Causal Ability in Time Dimension for Vision Language Models"</b>
       <br>
@@ -151,21 +166,7 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
     </td>
   </tr>
   
-  <tr>
-    <!-- <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
-      <a href="images/gaokao.png">
-      <img src='images/gaokao.png' width="300">
-      </a>
-    </td> -->
-    <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
-      <b>"A Novel College Entrance Filling Recommendation Algorithm Based on Score Line Prediction and Multi-feature Fusion"</b>
-      <br>
-      <u>Zeqing Wang</u>, Shengpeng Ji, Xin Li, Zixuan Zhao, Pengxu Wang, Xiaosong Han. <i>Computer Science(Chinese, CCF-B)</i>.
-      <br>
-      [<a href="https://www.jsjkx.com/CN/10.11896/jsjkx.211100266">Paper</a>]
-      [<a href="https://github.com/Zeqing-Wang/Reco-PMW">Code</a>]
-    </td>
-  </tr>
+
 
 </table>
 
