@@ -141,7 +141,7 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
       <br>
       <u>Zeqing Wang*</u>, Shiyuan Zhang*, Chengpei Tang and Keze Wang. <i>preprint</i>.
       <br>
-      [<a href="https://arxiv.org/pdf/2311.17331">Arxiv</a>][<a href="https://github.com/Zeqing-Wang/TimeCausality">Code</a>]
+      [<a href="https://arxiv.org/abs/2505.15435">Arxiv</a>][<a href="https://github.com/Zeqing-Wang/TimeCausality">Code</a>]
     </td>
   </tr>
 
