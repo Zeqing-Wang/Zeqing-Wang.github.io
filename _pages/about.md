@@ -107,7 +107,7 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
       <br>
       <u>Zeqing Wang</u>, Qingyang Ma, Wentao Wan, Haojie Li, Keze Wang and Yonghong Tian.  <i>CVPR 2025 <b>Highlight</b> (CCF-A)</i>
       <br>
-      [<a href="https://arxiv.org/abs/2411.14205">Arxiv</a>]
+      [<a href="https://arxiv.org/abs/2411.14205">Arxiv</a>][<a href="https://github.com/Zeqing-Wang/HumanCalibrator">Code</a>]
     </td>
   </tr>
 
