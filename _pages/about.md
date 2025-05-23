@@ -16,7 +16,7 @@ redirect_from:
 <!-- **Seize the day, and do what you are passionate about.** -->
 ~~**Yesterday**~~ **Today** ~~**Tomorrow**~~
 
-🔥 **Looking for Phd position for 26 fall around the world! Here is my [<a href="/files/WZQ_CV_UPDATE_TO_0523.pdf">CV</a>].**
+🔥 **Looking for Phd position for 26 fall around the world! Here is my [<a href="/files/WZQ_CV_UPDATE_TO_0523.pdf">CV</a>]🤓.**
 
 🧑‍🎓Currently, i'm a graduate student in the [SCHOOL OF COMPUTER SCIENCE AND ENGINEERING](https://cse.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/) as a member of [HCP Lab](https://www.sysu-hcp.net/), advised by Associate Professor [Keze Wang](https://kezewang.com/). My research interest recently focuses on VLM(Vision  Language Model).
 
