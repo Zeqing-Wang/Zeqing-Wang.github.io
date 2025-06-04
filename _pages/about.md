@@ -16,7 +16,7 @@ redirect_from:
 <!-- **Seize the day, and do what you are passionate about.** -->
 ~~**Yesterday**~~ **Today** ~~**Tomorrow**~~
 
-🔥 **[UPDATE to 0601]Looking for Phd position for 26 fall around the world! Here is my [<a href="/files/WZQ_CV_UPDATE_TO_0601.pdf">CV</a>].**
+<!-- 🔥 **[UPDATE to 0601]Looking for Phd position for 26 fall around the world! Here is my [<a href="/files/WZQ_CV_UPDATE_TO_0601.pdf">CV</a>].** -->
 
 🧑‍🎓Currently, i'm a graduate student in the [SCHOOL OF COMPUTER SCIENCE AND ENGINEERING](https://cse.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/) as a member of [HCP Lab](https://www.sysu-hcp.net/), advised by Associate Professor [Keze Wang](https://kezewang.com/). My research interest recently focuses on VLM(Vision  Language Model).
 
@@ -29,6 +29,7 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
 <h1 style="color: rgb(231, 65, 65);"><b>What's new:</b></h1>
 <div style="line-height: 1.5em; font-size: 0.95em">
   <p>
+  <b>[06/2025]</b> What can the powerful GPT4o do and provide? See our latest work <a href="https://github.com/Zeqing-Wang/TimeCausality">TimeCausality</a> and  <a href="https://github.com/A113N-W3I/TIIF-Bench">TIIF-Bench</a><br>
   <b>[05/2025]</b> One paper about Multi-Agent framework for VQA is accepted by IEEE Transactions on Multimedia(CCF B, Q1)! <br>
   <b>[02/2025]</b> One paper about Abnormal Detection in Human-Body via VLM is accepted by CVPR2025(CCF A)! All data will be open source after a period of time. <br>
   <b>[01/2025]</b> Start a new journey with OPPO Research Institute, Y-Lab. <br>
@@ -168,7 +169,15 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
     </td>
   </tr>
   
-
+  <tr>
+    <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
+      <b>"TIIF-Bench: How Does Your T2I Model Follow Your Instructions?"</b>
+      <br>
+      Xinyu Wei, Jinrui Zhang, <u>Zeqing Wang</u>, Hongyang Wei, Zhen Guo and Lei Zhang. <i>preprint</i>.
+      <br>
+      [<a href="https://www.arxiv.org/abs/2506.02161">Arxiv</a>][<a href="https://github.com/A113N-W3I/TIIF-Bench">Code</a>]
+    </td>
+  </tr>
 
 </table>
 
