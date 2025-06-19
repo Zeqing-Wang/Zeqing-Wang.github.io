@@ -7,6 +7,12 @@ author_profile: true
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:1.0em;">
   <tr>
+    <td style="padding:8px;width:50%;vertical-align:middle;horizontal-align:middle;border:none;">
+    <center>A bit reward for reinforcement learning. @Manhattan NYC, U.S., 2025</center>
+      <a href="/images/ny_manhattan.jpg">
+      <img src='/images/ny_manhattan.jpg' style="border-radius:20px;">
+      </a>
+    </td>
     <td style="padding:8px;width:100%;vertical-align:middle;horizontal-align:middle;border:none;">
     <center>"mirrors.tokyo_tower.jp" @Tokyo, Japan, 2025</center>
       <a href="/images/tokyo_tower_org.png">
