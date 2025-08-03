@@ -30,11 +30,11 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
 <div style="line-height: 1.5em; font-size: 0.95em">
   <p>
   <b>[06/2025]</b> 🤔 What can the powerful GPT4o do and provide? See our latest work <a href="https://github.com/Zeqing-Wang/TimeCausality">TimeCausality</a> and  <a href="https://github.com/A113N-W3I/TIIF-Bench">TIIF-Bench!</a><br>
-  <b>[05/2025]</b> One paper about Multi-Agent framework for VQA is accepted by IEEE Transactions on Multimedia(CCF B, Q1)! <br>
+  <b>[05/2025]</b> One paper about Multi-Agent framework for VQA is accepted by IEEE Transactions on Multimedia(TMM, CCF B, Q1)! <br>
   <b>[02/2025]</b> One paper about Abnormal Detection in Human-Body via VLM is accepted by CVPR2025(CCF A)! <br>
   <b>[01/2025]</b> Start a new journey with OPPO Research Institute, Y-Lab. <br>
   <b>[12/2023]</b> One paper about Audio Driven 3D Facial Animation is accepted by AAAI2024(CCF A)! <br>
-  <b>[10/2023]</b> One paper about Re-id problem is accepted by "Pattern Recognition Letters"(PRL, CCF C)! <br>
+  <b>[10/2023]</b> One paper about Re-id problem is accepted by "Pattern Recognition Letters"(PRL, CCF C, Q2)! <br>
   <b>[10/2022]</b> I won Jilin Bank Wang Xiang-hao scholarship! <br>
   <b>[09/2022]</b> I am successfully admitted to Sun Yat-sen University as MPhil in Computer Science and Technology!<br>
   <b>[12/2021]</b> One paper(chinese) is accepted by "Computer Science"(CCF B, chinese), this is my first paper!<br>
@@ -163,7 +163,7 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
       <b>"E3ID: An Efficient End to End Person Search Model"</b>
       <br>
-      Siyang Wang, Yanchun Liang, Ao Li, <u>Zeqing Wang</u> and Xiaosong Han. <i>Pattern Recognition Letters(CCF-C)</i>.
+      Siyang Wang, Yanchun Liang, Ao Li, <u>Zeqing Wang</u> and Xiaosong Han. <i>Pattern Recognition Letters(CCF-C, Q2)</i>.
       <br>
       [<a href="https://www.sciencedirect.com/science/article/pii/S0167865523003094">Paper</a>]
     </td>
