@@ -103,7 +103,7 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
   <li>
     <span class="date">[10/2022]</span>
     <span class="tag">🏆 Award:</span>
-    Honored to win the Jilin Bank Wang Xiang-hao scholarship!
+    Honored to win the Jilin Bank Wang Xiang-hao scholarship! 
   </li>
   <li>
     <span class="date">[09/2022]</span>
@@ -112,7 +112,7 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
   </li>
   <li>
     <span class="date">[12/2021]</span>
-    <span class="tag">🎉 First Paper:</span>
+    <span class="tag">🎉 Computer Science'21(First Paper):</span>
     One paper (chinese) is accepted by "Computer Science" (CCF B, chinese), this is my first paper!
   </li>
 </ul>
