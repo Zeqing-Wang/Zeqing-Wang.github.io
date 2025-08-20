@@ -46,7 +46,7 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
 
 <style>
   /* 这些样式与您提供的示例完全相同 */
-  .date { font-family: Consolas; color: rgb(146, 255, 102); font-weight: bold; }
+  .date { font-family: Consolas; color: rgb(52, 13, 102); font-weight: bold; }
   .tag  { color: rgb(231, 165, 65); font-weight: bold; }
   .link-group a {
     color: #1a73e8;
