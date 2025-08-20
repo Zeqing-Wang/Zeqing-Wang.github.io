@@ -179,6 +179,16 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
     </td>
   </tr>
 
+  <tr>
+    <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
+      <b>"A Continual Learning Paradigm for Non-differentiable Visual Programming Frameworks on Visual Reasoning Tasks?"</b>
+      <br>
+      Wentao Wan*, Nan Kang*, Zhuojie Yang, <u>Zeqing Wang</u>, Keze Wang and Liang Lin. <i>preprint</i>.
+      <br>
+      [<a href="https://arxiv.org/pdf/2309.09809">Arxiv</a>]
+    </td>
+  </tr>
+
 </table>
 
 <!-- <h4><b>Miscellaneous</b></h4> -->
