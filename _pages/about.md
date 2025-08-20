@@ -27,7 +27,9 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
 <br>
 
 <h1 style="color: rgb(231, 65, 65);"><b>What's new:</b></h1>
-<div style="line-height: 1.5em; font-size: 0.95em">
+
+
+<!-- <div style="line-height: 1.5em; font-size: 0.95em">
   <p>
   <b>[06/2025]</b> 🤔 What can the powerful GPT4o do and provide? See our latest work <a href="https://github.com/Zeqing-Wang/TimeCausality">TimeCausality</a> and  <a href="https://github.com/A113N-W3I/TIIF-Bench">TIIF-Bench!</a><br>
   <b>[05/2025]</b> One paper about Multi-Agent framework for VQA is accepted by IEEE Transactions on Multimedia(TMM, CCF B, Q1)! <br>
@@ -39,6 +41,82 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
   <b>[09/2022]</b> I am successfully admitted to Sun Yat-sen University as MPhil in Computer Science and Technology!<br>
   <b>[12/2021]</b> One paper(chinese) is accepted by "Computer Science"(CCF B, chinese), this is my first paper!<br>
   </p>
+</div> -->
+<div style="height: 300px; overflow: auto; border: 1px solid #ccc; margin: 10px;">
+
+<style>
+  /* 这些样式与您提供的示例完全相同 */
+  .date { font-family: Consolas; color: rgb(146, 255, 102); font-weight: bold; }
+  .tag  { color: rgb(231, 165, 65); font-weight: bold; }
+  .link-group a {
+    color: #1a73e8;
+    text-decoration: none;
+    margin: 0 2px;
+  }
+  .link-group a:hover {
+    text-decoration: underline;
+  }
+  /* 为了让列表更紧凑，添加一点自定义样式 */
+  ul {
+    padding-left: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  li {
+    margin-bottom: 8px; /* 增加列表项之间的间距 */
+    line-height: 1.5em; 
+    font-size: 0.95em;
+  }
+</style>
+
+<ul>
+  <li>
+    <span class="date">[06/2025]</span>
+    <span class="tag">🎉 New Work:</span>
+    🤔 What can the powerful GPT4o do and provide? See our latest work <a href="https://github.com/Zeqing-Wang/TimeCausality">TimeCausality</a> and <a href="https://github.com/A113N-W3I/TIIF-Bench">TIIF-Bench!</a>
+  </li>
+  <li>
+    <span class="date">[05/2025]</span>
+    <span class="tag">TMM'25:</span>
+    One paper about Multi-Agent framework for VQA is accepted by IEEE Transactions on Multimedia (TMM, CCF B, Q1)!
+  </li>
+  <li>
+    <span class="date">[02/2025]</span>
+    <span class="tag">CVPR'25:</span>
+    One paper about Abnormal Detection in Human-Body via VLM is accepted by CVPR2025 (CCF A)!
+  </li>
+  <li>
+    <span class="date">[01/2025]</span>
+    <span class="tag">🧑‍💻 New Journey:</span>
+    Start a new journey with OPPO Research Institute, Y-Lab.
+  </li>
+  <li>
+    <span class="date">[12/2023]</span>
+    <span class="tag">AAAI'24:</span>
+    One paper about Audio Driven 3D Facial Animation is accepted by AAAI2024 (CCF A)!
+  </li>
+  <li>
+    <span class="date">[10/2023]</span>
+    <span class="tag">PRL'23:</span>
+    One paper about Re-id problem is accepted by "Pattern Recognition Letters" (PRL, CCF C, Q2)!
+  </li>
+  <li>
+    <span class="date">[10/2022]</span>
+    <span class="tag">🏆 Award:</span>
+    Honored to win the Jilin Bank Wang Xiang-hao scholarship!
+  </li>
+  <li>
+    <span class="date">[09/2022]</span>
+    <span class="tag">🎓 Admission:</span>
+    Successfully admitted to Sun Yat-sen University as MPhil in Computer Science and Technology!
+  </li>
+  <li>
+    <span class="date">[12/2021]</span>
+    <span class="tag">🎉 First Paper:</span>
+    One paper (chinese) is accepted by "Computer Science" (CCF B, chinese), this is my first paper!
+  </li>
+</ul>
+
 </div>
 
 **Experience**
