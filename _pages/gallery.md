@@ -197,14 +197,14 @@ author_profile: true
 
   <div class="timeline-item right">
     <div class="content">
-      <a href="/images/gallery/escape.jpg"><img src="/images/escape.jpg"></a>
+      <a href="/images/gallery/escape.jpg"><img src="/images/gallery/escape.jpg"></a>
       <p>Escape from reality. <br>@Changchun, China</p>
     </div>
   </div>
   
   <div class="timeline-item left">
     <div class="content">
-      <a href="/images/gallery/Sunrise_in_Changchun.jpg"><img src="/images/Sunrise_in_Changchun.jpg"></a>
+      <a href="/images/gallery/Sunrise_in_Changchun.jpg"><img src="/images/gallery/Sunrise_in_Changchun.jpg"></a>
       <p>Sunrise in Changchun. <br>@Changchun, China</p>
     </div>
   </div>
