@@ -163,17 +163,23 @@ author_profile: true
 <div class="timeline">
 
   <div class="timeline-year">2025</div>
+  <div class="timeline-item right">
+    <div class="content">
+      <a href="/images/gallery/kitty_claw_cloud.png"><img src="/images/gallery/kitty_claw_cloud.png"></a>
+      <p>Kitty Claw. <br>@Shenzhen, China.</p>
+    </div>
+  </div>
 
   <div class="timeline-item left">
     <div class="content">
-      <a href="/images/ny_manhattan.jpg"><img src="/images/ny_manhattan.jpg"></a>
+      <a href="/images/gallery/ny_manhattan.jpg"><img src="/images/gallery/ny_manhattan.jpg"></a>
       <p>A bit reward for reinforcement learning. <br>@Manhattan NYC, U.S.</p>
     </div>
   </div>
 
   <div class="timeline-item right">
     <div class="content">
-      <a href="/images/tokyo_tower_org.png"><img src="/images/tokyo_tower_org.png"></a>
+      <a href="/images/gallery/tokyo_tower_org.png"><img src="/images/gallery/tokyo_tower_org.png"></a>
       <p>"mirrors.tokyo_tower.jp" <br>@Tokyo, Japan</p>
     </div>
   </div>
@@ -182,7 +188,7 @@ author_profile: true
 
   <div class="timeline-item left">
     <div class="content">
-      <a href="/images/past_and_future.jpg"><img src="/images/past_and_future.jpg"></a>
+      <a href="/images/gallery/past_and_future.jpg"><img src="/images/gallery/past_and_future.jpg"></a>
       <p>What's past is prologue. <br>@Zhengzhou, China</p>
     </div>
   </div>
@@ -191,21 +197,21 @@ author_profile: true
 
   <div class="timeline-item right">
     <div class="content">
-      <a href="/images/escape.jpg"><img src="/images/escape.jpg"></a>
+      <a href="/images/gallery/escape.jpg"><img src="/images/escape.jpg"></a>
       <p>Escape from reality. <br>@Changchun, China</p>
     </div>
   </div>
   
   <div class="timeline-item left">
     <div class="content">
-      <a href="/images/Sunrise_in_Changchun.jpg"><img src="/images/Sunrise_in_Changchun.jpg"></a>
+      <a href="/images/gallery/Sunrise_in_Changchun.jpg"><img src="/images/Sunrise_in_Changchun.jpg"></a>
       <p>Sunrise in Changchun. <br>@Changchun, China</p>
     </div>
   </div>
 
   <div class="timeline-item right">
     <div class="content">
-      <a href="/images/Night_view_of_Pearl_River.jpg"><img src="/images/Night_view_of_Pearl_River.jpg"></a>
+      <a href="/images/gallery/Night_view_of_Pearl_River.jpg"><img src="/images/gallery/Night_view_of_Pearl_River.jpg"></a>
       <p>Night View Of Pearl River. <br>@Guangzhou, China</p>
     </div>
   </div>
@@ -214,7 +220,7 @@ author_profile: true
   
   <div class="timeline-item left">
     <div class="content">
-      <a href="/images/YangtzeRiver.jpg"><img src="/images/YangtzeRiver.jpg"></a>
+      <a href="/images/gallery/YangtzeRiver.jpg"><img src="/images/gallery/YangtzeRiver.jpg"></a>
       <p>Yangtze River. <br>@Wuhan, China</p>
     </div>
   </div>
@@ -223,7 +229,7 @@ author_profile: true
   
   <div class="timeline-item right">
     <div class="content">
-      <a href="/images/lijiang.jpg"><img src="/images/lijiang.jpg"></a>
+      <a href="/images/gallery/lijiang.jpg"><img src="/images/gallery/lijiang.jpg"></a>
       <p>Hopes. <br>@Lijiang, China</p>
     </div>
   </div>
@@ -232,14 +238,14 @@ author_profile: true
   
   <div class="timeline-item left">
     <div class="content">
-      <a href="/images/snowinoct.jpg"><img src="/images/snowinoct.jpg"></a>
+      <a href="/images/gallery/snowinoct.jpg"><img src="/images/gallery/snowinoct.jpg"></a>
       <p>Snow in october. <br>@Changchun, China</p>
     </div>
   </div>
 
   <div class="timeline-item right">
     <div class="content">
-      <a href="/images/zz7z.png"><img src="/images/zz7z.png"></a>
+      <a href="/images/gallery/zz7z.png"><img src="/images/gallery/zz7z.png"></a>
       <p>Windowpane in Zhengzhou No.7 <br>@Zhengzhou, China</p>
     </div>
   </div>
