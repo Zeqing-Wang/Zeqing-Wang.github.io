@@ -225,7 +225,7 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
       <b>"VideoVerse: How Far is Your T2V Generator from a World Model?"</b>
       <br>
-      <u>Zeqing Wang*</u>, Xinyu Wei*, Bairui Li, Zhen Guo, Jinrui Zhang, Hongyang Wei, Keze Wang and Lei Zhang. <i>preprint</i>.
+      <u>Zeqing Wang*</u>, Xinyu Wei*, Bairui Li*, Zhen Guo, Jinrui Zhang, Hongyang Wei, Keze Wang and Lei Zhang. <i>preprint</i>.
       <br>
       [<a href="[https:ity//github.com/Zeqing-Wang/TimeCausal](https://www.naptmn.cn/Homepage_of_VideoVerse/)">Homepage&Leaderboard</a>]
     </td>
