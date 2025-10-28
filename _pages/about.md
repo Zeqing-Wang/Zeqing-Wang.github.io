@@ -71,6 +71,11 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
 
 <ul>
   <li>
+    <span class="date">[10/2025]</span>
+    <span class="tag">🎉 New Work:</span>
+    🎉 Evaluating the current powerful "world model"! See our latest work <a href="https://www.naptmn.cn/Homepage_of_VideoVerse/">VideoVerse</a>.
+  </li>
+  <li>
     <span class="date">[06/2025]</span>
     <span class="tag">🎉 New Work:</span>
     🤔 What can the powerful GPT4o do and provide? See our latest work <a href="https://github.com/Zeqing-Wang/TimeCausality">TimeCausality</a> and <a href="https://github.com/A113N-W3I/TIIF-Bench">TIIF-Bench!</a>
@@ -216,6 +221,17 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
       [<a href="https://github.com/Zeqing-Wang/Reco-PMW">Code</a>]
     </td>
   </tr>
+  <tr>
+    <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
+      <b>"VideoVerse: How Far is Your T2V Generator from a World Model?"</b>
+      <br>
+      <u>Zeqing Wang*</u>, Xinyu Wei*, Bairui Li, Zhen Guo, Jinrui Zhang, Hongyang Wei, Keze Wang and Lei Zhang. <i>preprint</i>.
+      <br>
+      [<a href="[https:ity//github.com/Zeqing-Wang/TimeCausal](https://www.naptmn.cn/Homepage_of_VideoVerse/)">Homepage&Leaderboard</a>]
+    </td>
+  </tr>
+
+
   <tr>
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
       <b>"TimeCausality: Evaluating the Causal Ability in Time Dimension for Vision Language Models"</b>
