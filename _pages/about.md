@@ -223,11 +223,20 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
   </tr>
   <tr>
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
+      <b>"PhyDetEx: Detecting and Explaining the Physical Plausibility of T2V Models"</b>
+      <br>
+      <u>Zeqing Wang</u>, Keze Wang and Lei Zhang. <i>preprint</i>.
+      <br>
+      [<a href="https://github.com/Zeqing-Wang/PhyDetEx">Code&Ckpt</a>]
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
       <b>"VideoVerse: How Far is Your T2V Generator from a World Model?"</b>
       <br>
       <u>Zeqing Wang*</u>, Xinyu Wei*, Bairui Li*, Zhen Guo, Jinrui Zhang, Hongyang Wei, Keze Wang and Lei Zhang. <i>preprint</i>.
       <br>
-      [<a href="[https:ity//github.com/Zeqing-Wang/TimeCausal](https://www.naptmn.cn/Homepage_of_VideoVerse/)">Homepage&Leaderboard</a>]
+      [<a href="https://www.naptmn.cn/Homepage_of_VideoVerse/">Homepage&Leaderboard</a>]
     </td>
   </tr>
 
