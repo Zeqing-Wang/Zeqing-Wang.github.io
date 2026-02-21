@@ -71,6 +71,11 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
 
 <ul>
   <li>
+    <span class="date">[02/2026]</span>
+    <span class="tag">CVPR'26:</span>
+    MICo-150K is accepted by CVPR2026 (CCF A)!
+  </li>
+  <li>
     <span class="date">[10/2025]</span>
     <span class="tag">🎉 New Work:</span>
     🎉 Evaluating the current powerful "world model"! See our latest work <a href="https://www.naptmn.cn/Homepage_of_VideoVerse/">VideoVerse</a>.
@@ -260,7 +265,15 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
       [<a href="https://zeqing-wang.github.io/Mimic/">Project Page</a>][<a href="https://github.com/huifu99/Mimic">Code</a>]
     </td>
   </tr>
-
+  <tr>
+    <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
+      <b>"MICo-150K: A Comprehensive Dataset Advancing Multi-Image Composition"</b>
+      <br>
+      Xinyu Wei, Kangrui Cen, Hongyang Wei, Zhen Guo, Bairui Li, <u>Zeqing Wang</u>, Jinrui Zhang and Lei Zhang. <i>CVPR 2026(CCF-A)</i>.
+      <br>
+      [<a href="https://mico-150k.github.io/">Project Page</a>]
+    </td>
+  </tr>
 
   <tr>
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
