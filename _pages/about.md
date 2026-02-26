@@ -235,7 +235,7 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
 
 **Interests**
  
-Some video games 🎮 (like LOL), sports (like badminton 🏸, swimming 🏊) and a little fingerstyle guitar 🎸. Also, recording some meaningful moments in life 📷, some of them are shown in [Gallary](./gallery.md).
+Some video games 🎮 (like LOL), sports (like badminton 🏸, swimming 🏊) and a little fingerstyle guitar 🎸. Also, recording some meaningful moments in life 📷, some of them are shown in [Moments](./gallery.md).
 
 --------
 
