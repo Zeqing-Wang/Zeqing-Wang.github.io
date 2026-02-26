@@ -161,8 +161,27 @@ author_profile: true
 
 
 <div class="timeline">
+  <div class="timeline-year">2026</div>
+  <div class="timeline-item left">
+    <div class="content">
+      <a href="/images/gallery/kitty_claw_cloud.png"><img src="/images/gallery/snow_mountian.png"></a>
+      <p>“太美丽了家人们”. <br>@Jiuzhaigou, China.</p>
+    </div>
+  </div>
 
   <div class="timeline-year">2025</div>
+  <div class="timeline-item right">
+    <div class="content">
+      <a href="/images/gallery/kitty_claw_cloud.png"><img src="/images/gallery/somewhere.png"></a>
+      <p>Happy April Fools' Day <br>@Somewhere, Earth.</p>
+    </div>
+  </div>
+  <div class="timeline-item left">
+    <div class="content">
+      <a href="/images/gallery/kitty_claw_cloud.png"><img src="/images/gallery/dive.png"></a>
+      <p>Dive. <br>@Okinawa, Japan.</p>
+    </div>
+  </div>
   <div class="timeline-item right">
     <div class="content">
       <a href="/images/gallery/kitty_claw_cloud.png"><img src="/images/gallery/kitty_claw_cloud.png"></a>
