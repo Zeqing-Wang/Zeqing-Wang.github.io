@@ -192,7 +192,7 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
 <!-- <h4><b>Miscellaneous</b></h4> -->
 <!-- <h5><i>Articles & Projects</i></h5> -->
 
-**Selected Honors**
+<!-- **Selected Honors**
 
 <table style="border:none;font-size:0.95em;">
   <tr>
@@ -231,7 +231,7 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
     <td style="border:none;text-align:center;">2020 & 2021 & 2023
     </td>
   </tr>
-</table>
+</table> -->
 
 **Interests**
  
