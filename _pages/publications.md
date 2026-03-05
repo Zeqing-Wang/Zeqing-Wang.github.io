@@ -30,7 +30,7 @@ author_profile: true
     <td style="padding:20px;width:100%;vertical-align:middle;border-right:none;border:none;">
       <b>"Towards Top-Down Reasoning: An Explainable Multi-Agent Approach for Visual Question Answering"</b>
       <br>
-      <u>Zeqing Wang</u>, Wentao Wan, Qiqing Lao, Runmeng Chen, Minjie Lang, Keze Wang and Liang Lin. <i>IEEE Transactions on Multimedia (CCF-B, Q1)</i>.
+      <u>Zeqing Wang</u>, Wentao Wan, Qiqing Lao, Runmeng Chen, Minjie Lang, Keze Wang and Liang Lin. <i>IEEE Transactions on Multimedia (CCF-A, Q1)</i>.
       <br>
       [<a href="https://arxiv.org/pdf/2311.17331">Arxiv</a>][<a href="https://github.com/Zeqing-Wang/Towards-Top-Down-Reasoning">Code</a>]
     </td>
