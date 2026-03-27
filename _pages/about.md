@@ -71,7 +71,7 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
 
 <ul>
   <li>
-    <span class="date">[02/2026]</span>
+    <span class="date">[03/2026]</span>
     <span class="tag">CVPR'26:</span>
     TimeCausality will present in DataMFM Workshop in CVPR2026!
   </li>
