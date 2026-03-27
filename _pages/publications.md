@@ -18,6 +18,16 @@ author_profile: true
 <table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
   <tr>
     <td style="padding:20px;width:100%;vertical-align:middle;border-right:none;border:none;">
+      <b>"TimeCausality: Evaluating the Causal Ability in Time Dimension for Vision Language Models"</b>
+      <br>
+      <u>Zeqing Wang*</u>, Shiyuan Zhang*, Chengpei Tang and Keze Wang. <i>CVPR 2026 DataMFM Workshop</i>.
+      <br>
+      [<a href="https://arxiv.org/abs/2505.15435">Arxiv</a>][<a href="https://github.com/Zeqing-Wang/TimeCausality">Code</a>]
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding:20px;width:100%;vertical-align:middle;border-right:none;border:none;">
       <b>"Is this Generated Person Existed in Real-world? Fine-grained Detecting and Calibrating Abnormal Human-body"</b>
       <br>
       <u>Zeqing Wang</u>, Qingyang Ma, Wentao Wan, Haojie Li, Keze Wang and Yonghong Tian.  <i>CVPR 2025 <b>Highlight</b> (CCF-A)</i>
@@ -67,15 +77,7 @@ author_profile: true
     </td>
   </tr>
 
-  <tr>
-    <td style="padding:20px;width:100%;vertical-align:middle;border-right:none;border:none;">
-      <b>"TimeCausality: Evaluating the Causal Ability in Time Dimension for Vision Language Models"</b>
-      <br>
-      <u>Zeqing Wang*</u>, Shiyuan Zhang*, Chengpei Tang and Keze Wang. <i>preprint</i>.
-      <br>
-      [<a href="https://arxiv.org/abs/2505.15435">Arxiv</a>][<a href="https://github.com/Zeqing-Wang/TimeCausality">Code</a>]
-    </td>
-  </tr>
+
 
   <tr>
     <td style="padding:20px;width:100%;vertical-align:middle;border-right:none;border:none;">

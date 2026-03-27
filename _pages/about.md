@@ -73,6 +73,11 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
   <li>
     <span class="date">[02/2026]</span>
     <span class="tag">CVPR'26:</span>
+    TimeCausality will present in DataMFM Workshop in CVPR2026!
+  </li>
+  <li>
+    <span class="date">[02/2026]</span>
+    <span class="tag">CVPR'26:</span>
     MICo-150K is accepted by CVPR2026 (CCF A)!
   </li>
   <li>
