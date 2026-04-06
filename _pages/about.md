@@ -9,6 +9,17 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  /* About page section titles: clearer but not oversized */
+  h2.about-section-title {
+    font-size: 1.15em;
+    font-weight: 700;
+    margin: 1.8em 0 0.9em;
+    padding-bottom: 0.25em;
+    border-bottom: 1px solid currentColor;
+  }
+</style>
+
 ![BSc](https://img.shields.io/badge/B.Sc.-Jilin%20Univ.%20(2019--2023)-yellowgreen?style=flat-square&color=181717&labelColor=red)
 ![MPhil](https://img.shields.io/badge/MPhil.-SYSU.%20(2023--Now)-yellowgreen?style=flat-square&color=181717&labelColor=blue)
 
@@ -134,7 +145,7 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
 
 </div>
 
-**Experience**
+<h2 class="about-section-title">Experience</h2>
 <!-- <h2><b>Experience</b></h2> -->
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
   <tr>
@@ -238,7 +249,7 @@ Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Progra
   </tr>
 </table> -->
 
-**Interests**
+<h2 class="about-section-title">Interests</h2>
  
 Some video games 🎮 (like LOL), sports (like badminton 🏸, swimming 🏊) and a little fingerstyle guitar 🎸. Also, recording some meaningful moments in life 📷, some of them are shown in [Moments](./gallery.md).
 
