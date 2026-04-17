@@ -10,250 +10,339 @@ redirect_from:
 ---
 
 <style>
-  /* About page section titles: clearer but not oversized */
+  :root {
+    --about-ink: #22302d;
+    --about-muted: #66736f;
+    --about-line: #d8e5e0;
+    --about-soft: #f5f9f7;
+    --about-accent: #2f8f74;
+    --about-warm: #d35b4a;
+    --about-shadow: 0 12px 30px rgba(31, 52, 47, 0.10);
+  }
+
+  .about-hero {
+    margin: 0.9rem 0 1.6rem;
+    padding: 1.15rem 1.25rem;
+    color: var(--about-ink);
+    background: var(--about-soft);
+    border: 1px solid var(--about-line);
+    border-radius: 8px;
+    box-shadow: var(--about-shadow);
+  }
+
+  .about-badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+    margin-bottom: 0.9rem;
+  }
+
+  .about-motto {
+    margin: 0 0 0.75rem;
+    color: var(--about-muted);
+    font-size: 0.92em;
+  }
+
+  .about-tagline {
+    margin: 0 0 0.9rem;
+    color: var(--about-ink);
+    font-size: 1.08em;
+    font-weight: 700;
+    line-height: 1.55;
+  }
+
+  .about-hero p {
+    margin: 0.7rem 0 0;
+    line-height: 1.65;
+  }
+
+  .about-contact {
+    margin-top: 1rem;
+    padding-top: 0.85rem;
+    border-top: 1px solid var(--about-line);
+    color: var(--about-muted);
+    font-size: 0.94em;
+  }
+
+  .about-contact a {
+    font-weight: 600;
+  }
+
   h2.about-section-title {
     font-size: 1.15em;
     font-weight: 700;
     margin: 1.8em 0 0.9em;
     padding-bottom: 0.25em;
-    border-bottom: 1px solid currentColor;
+    color: var(--about-ink);
+    border-bottom: 1px solid var(--about-line);
+  }
+
+  .news-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .news-list li {
+    position: relative;
+    margin: 0;
+    padding: 0.62rem 0 0.62rem 1.2rem;
+    color: var(--about-muted);
+    line-height: 1.55;
+    border-left: 2px solid var(--about-line);
+  }
+
+  .news-list li::before {
+    content: '';
+    position: absolute;
+    top: 1.05rem;
+    left: -0.34rem;
+    width: 0.55rem;
+    height: 0.55rem;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    background: var(--about-accent);
+    box-shadow: 0 0 0 3px rgba(47, 143, 116, 0.15);
+  }
+
+  .news-date {
+    color: var(--about-ink);
+    font-family: Consolas, Monaco, monospace;
+    font-weight: 700;
+  }
+
+  .news-tag {
+    color: var(--about-warm);
+    font-weight: 700;
+  }
+
+  .news-more {
+    margin-top: 0.4rem;
+    color: var(--about-muted);
+  }
+
+  .news-more summary {
+    width: fit-content;
+    cursor: pointer;
+    color: var(--about-accent);
+    font-weight: 700;
+  }
+
+  .experience-list {
+    display: grid;
+    gap: 0.85rem;
+  }
+
+  .experience-item {
+    display: grid;
+    grid-template-columns: 112px minmax(0, 1fr);
+    gap: 1rem;
+    align-items: center;
+    padding: 0.85rem 1rem;
+    background: #fff;
+    border: 1px solid var(--about-line);
+    border-radius: 8px;
+    box-shadow: 0 8px 22px rgba(31, 52, 47, 0.07);
+  }
+
+  .experience-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .experience-logo img {
+    max-width: 100%;
+    max-height: 58px;
+    object-fit: contain;
+  }
+
+  .experience-body {
+    color: var(--about-muted);
+    line-height: 1.55;
+  }
+
+  .experience-body b {
+    color: var(--about-ink);
+  }
+
+  .experience-date {
+    display: block;
+    margin-top: 0.15rem;
+    font-size: 0.92em;
+  }
+
+  .interests-note {
+    color: var(--about-muted);
+    line-height: 1.7;
+  }
+
+  .site-analytics {
+    margin-top: 2rem;
+    text-align: center;
+    color: var(--about-muted);
+    font-size: 0.9em;
+  }
+
+  @media screen and (max-width: 560px) {
+    .about-hero {
+      padding: 1rem;
+    }
+
+    .experience-item {
+      grid-template-columns: 74px minmax(0, 1fr);
+      gap: 0.8rem;
+      padding: 0.75rem;
+    }
+
+    .experience-logo img {
+      max-height: 42px;
+    }
   }
 </style>
 
-![BSc](https://img.shields.io/badge/B.Sc.-Jilin%20Univ.%20(2019--2023)-yellowgreen?style=flat-square&color=181717&labelColor=red)
-![MPhil](https://img.shields.io/badge/MPhil.-SYSU.%20(2023--Now)-yellowgreen?style=flat-square&color=181717&labelColor=blue)
+<div class="about-hero">
+  <div class="about-badges">
+    <img alt="BSc, Jilin University, 2019-2023" src="https://img.shields.io/badge/B.Sc.-Jilin%20Univ.%20(2019--2023)-yellowgreen?style=flat-square&color=181717&labelColor=red">
+    <img alt="MPhil, Sun Yat-sen University, 2023-Now" src="https://img.shields.io/badge/MPhil.-SYSU.%20(2023--Now)-yellowgreen?style=flat-square&color=181717&labelColor=blue">
+  </div>
 
-<!-------------------->
-<!-- **Seize the day, and do what you are passionate about.** -->
-~~**Yesterday**~~ **Today** ~~**Tomorrow**~~
+  <p class="about-motto"><del><b>Yesterday</b></del> <b>Today</b> <del><b>Tomorrow</b></del></p>
+  <p class="about-tagline">I work on vision-language models, multimodal reasoning, and the tiny joyful things between research deadlines.</p>
 
-<!-- 🔥 **[UPDATE to 0601]Looking for Phd position for 26 fall around the world! Here is my [<a href="/files/WZQ_CV_UPDATE_TO_0601.pdf">CV</a>].** -->
+  <p>🧑‍🎓 I am currently a graduate student in the <a href="https://cse.sysu.edu.cn/">School of Computer Science and Engineering</a>, <a href="https://www.sysu.edu.cn/">Sun Yat-sen University</a>, and a member of <a href="https://www.sysu-hcp.net/">HCP Lab</a>, advised by Professor <a href="https://kezewang.com/">Keze Wang</a>. My recent research focuses on VLMs (Vision-Language Models). Here is my <b><a href="/files/WZQ_CV_UPDATE_TO_260406.pdf">CV</a></b>.</p>
 
-🧑‍🎓Currently, i'm a graduate student in the [SCHOOL OF COMPUTER SCIENCE AND ENGINEERING](https://cse.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/) as a member of [HCP Lab](https://www.sysu-hcp.net/), advised by Professor [Keze Wang](https://kezewang.com/). My research interest recently focuses on VLM (Vision  Language Model). Here is my **[<a href="/files/WZQ_CV_UPDATE_TO_260406.pdf">CV</a>]**.
+  <p>Before that, I received my bachelor's degree in <a href="http://csw.jlu.edu.cn/info/1080/2824.htm">Software Engineering (Pilot Program in Engineering)</a> from <a href="https://www.jlu.edu.cn/">Jilin University</a>. During my undergraduate years, I worked on bioinformatics with Professor <a href="https://www.healthinformaticslab.org/">Fengfeng Zhou</a>, and on software development 🔧 and Re-ID with Professor <a href="https://ccst.jlu.edu.cn/info/1196/17217.htm">Xiaosong Han</a>. I am truly fortunate to have been guided by two kind professors :>!</p>
 
-Before that, I obtained my Bachelor degree in [Software Engineering(Pilot Program in Engineering)](http://csw.jlu.edu.cn/info/1080/2824.htm) from [Jilin University](https://www.jlu.edu.cn/). In my undergraduate studies, I did research on bioinformatics under the supervision of Professor [Fengfeng Zhou](https://www.healthinformaticslab.org/). At the same time, I also worked on software development🔧 (Android, .Net, SpringBoot, Django etc.) and Re-id problem under the supervision of Professor [Xiaosong Han](https://ccst.jlu.edu.cn/info/1196/17217.htm). I am truly fortunate to be guided by two kind professors :>!
+  <div class="about-contact">
+    <i class="fa fa-fw fa-envelope"></i>
+    Mail: <a href="mailto:wangzeqing1005@163.com">wangzeqing1005[AT]163.com</a> or <a href="mailto:wangzq73@mail2.sysu.edu.cn">wangzq73[AT]mail2.sysu.edu.cn</a>
+  </div>
+</div>
 
-**Contact me via**:  
-  <i class="fa fa-fw fa-envelope"></i> <font style="font-size: 0.9em;">Mail: <a href="mailto:wangzeqing1005@163.com">wangzeqing1005[AT]163.com</a> or <a href="mailto:wangzq73@mail2.sysu.edu.cn">wangzq73[AT]mail2.sysu.edu.cn</a></font>
-<br>
+<h2 class="about-section-title">What's New</h2>
 
-<h1 style="color: rgb(231, 65, 65);"><b>What's new:</b></h1>
-
-
-<!-- <div style="line-height: 1.5em; font-size: 0.95em">
-  <p>
-  <b>[06/2025]</b> 🤔 What can the powerful GPT4o do and provide? See our latest work <a href="https://github.com/Zeqing-Wang/TimeCausality">TimeCausality</a> and  <a href="https://github.com/A113N-W3I/TIIF-Bench">TIIF-Bench!</a><br>
-  <b>[05/2025]</b> One paper about Multi-Agent framework for VQA is accepted by IEEE Transactions on Multimedia(TMM, CCF B, Q1)! <br>
-  <b>[02/2025]</b> One paper about Abnormal Detection in Human-Body via VLM is accepted by CVPR2025(CCF A)! <br>
-  <b>[01/2025]</b> Start a new journey with OPPO Research Institute, Y-Lab. <br>
-  <b>[12/2023]</b> One paper about Audio Driven 3D Facial Animation is accepted by AAAI2024(CCF A)! <br>
-  <b>[10/2023]</b> One paper about Re-id problem is accepted by "Pattern Recognition Letters"(PRL, CCF C, Q2)! <br>
-  <b>[10/2022]</b> I won Jilin Bank Wang Xiang-hao scholarship! <br>
-  <b>[09/2022]</b> I am successfully admitted to Sun Yat-sen University as MPhil in Computer Science and Technology!<br>
-  <b>[12/2021]</b> One paper(chinese) is accepted by "Computer Science"(CCF B, chinese), this is my first paper!<br>
-  </p>
-</div> -->
-<div style="height: 300px; overflow: auto; border: 1px solid #ccc; margin: 10px;">
-
-<style>
-  /* 这些样式与您提供的示例完全相同 */
-  .date { font-family: Consolas; color: rgb(52, 13, 102); font-weight: bold; }
-  .tag  { color: rgb(231, 165, 65); font-weight: bold; }
-  .link-group a {
-    color: #1a73e8;
-    text-decoration: none;
-    margin: 0 2px;
-  }
-  .link-group a:hover {
-    text-decoration: underline;
-  }
-  /* 为了让列表更紧凑，添加一点自定义样式 */
-  ul {
-    padding-left: 20px;
-    margin-top: 5px;
-    margin-bottom: 5px;
-  }
-  li {
-    margin-bottom: 8px; /* 增加列表项之间的间距 */
-    line-height: 1.5em; 
-    font-size: 0.95em;
-  }
-</style>
-
-<ul>
+<ul class="news-list">
   <li>
-    <span class="date">[03/2026]</span>
-    <span class="tag">CVPR'26:</span>
+    <span class="news-date">[03/2026]</span>
+    <span class="news-tag">CVPR'26:</span>
     TimeCausality will present in DataMFM Workshop in CVPR2026!
   </li>
   <li>
-    <span class="date">[02/2026]</span>
-    <span class="tag">CVPR'26:</span>
+    <span class="news-date">[02/2026]</span>
+    <span class="news-tag">CVPR'26:</span>
     MICo-150K is accepted by CVPR2026 (CCF A)!
   </li>
   <li>
-    <span class="date">[10/2025]</span>
-    <span class="tag">🎉 New Work:</span>
+    <span class="news-date">[10/2025]</span>
+    <span class="news-tag">🎉 New Work:</span>
     🎉 Evaluating the current powerful "world model"! See our latest work <a href="https://www.naptmn.cn/Homepage_of_VideoVerse/">VideoVerse</a>.
   </li>
   <li>
-    <span class="date">[06/2025]</span>
-    <span class="tag">🎉 New Work:</span>
+    <span class="news-date">[06/2025]</span>
+    <span class="news-tag">🎉 New Work:</span>
     🤔 What can the powerful GPT4o do and provide? See our latest work <a href="https://github.com/Zeqing-Wang/TimeCausality">TimeCausality</a> and <a href="https://github.com/A113N-W3I/TIIF-Bench">TIIF-Bench!</a>
   </li>
   <li>
-    <span class="date">[05/2025]</span>
-    <span class="tag">TMM'25:</span>
+    <span class="news-date">[05/2025]</span>
+    <span class="news-tag">TMM'25:</span>
     One paper about Multi-Agent framework for VQA is accepted by IEEE Transactions on Multimedia (TMM, CCF B, Q1)!
-  </li>
-  <li>
-    <span class="date">[02/2025]</span>
-    <span class="tag">CVPR'25:</span>
-    One paper about Abnormal Detection in Human-Body via VLM is accepted by CVPR2025 (CCF A)!
-  </li>
-  <li>
-    <span class="date">[01/2025]</span>
-    <span class="tag">🧑‍💻 New Journey:</span>
-    Start a new journey with OPPO Research Institute, Y-Lab.
-  </li>
-  <li>
-    <span class="date">[12/2023]</span>
-    <span class="tag">AAAI'24:</span>
-    One paper about Audio Driven 3D Facial Animation is accepted by AAAI2024 (CCF A)!
-  </li>
-  <li>
-    <span class="date">[10/2023]</span>
-    <span class="tag">PRL'23:</span>
-    One paper about Re-id problem is accepted by "Pattern Recognition Letters" (PRL, CCF C, Q2)!
-  </li>
-  <li>
-    <span class="date">[10/2022]</span>
-    <span class="tag">🏆 Award:</span>
-    Honored to win the Jilin Bank Wang Xiang-hao scholarship! 
-  </li>
-  <li>
-    <span class="date">[09/2022]</span>
-    <span class="tag">🎓 Admission:</span>
-    Successfully admitted to Sun Yat-sen University as MPhil in Computer Science and Technology!
-  </li>
-  <li>
-    <span class="date">[12/2021]</span>
-    <span class="tag">🎉 Computer Science'21(First Paper):</span>
-    One paper (chinese) is accepted by "Computer Science" (CCF B, chinese), this is my first paper!
   </li>
 </ul>
 
-</div>
+<details class="news-more">
+  <summary>Earlier news</summary>
+  <ul class="news-list">
+    <li>
+      <span class="news-date">[02/2025]</span>
+      <span class="news-tag">CVPR'25:</span>
+      One paper about Abnormal Detection in Human-Body via VLM is accepted by CVPR2025 (CCF A)!
+    </li>
+    <li>
+      <span class="news-date">[01/2025]</span>
+      <span class="news-tag">🧑‍💻 New Journey:</span>
+      Start a new journey with OPPO Research Institute, Y-Lab.
+    </li>
+    <li>
+      <span class="news-date">[12/2023]</span>
+      <span class="news-tag">AAAI'24:</span>
+      One paper about Audio Driven 3D Facial Animation is accepted by AAAI2024 (CCF A)!
+    </li>
+    <li>
+      <span class="news-date">[10/2023]</span>
+      <span class="news-tag">PRL'23:</span>
+      One paper about Re-ID is accepted by "Pattern Recognition Letters" (PRL, CCF C, Q2)!
+    </li>
+    <li>
+      <span class="news-date">[10/2022]</span>
+      <span class="news-tag">🏆 Award:</span>
+      Honored to win the Jilin Bank Wang Xiang-hao scholarship!
+    </li>
+    <li>
+      <span class="news-date">[09/2022]</span>
+      <span class="news-tag">🎓 Admission:</span>
+      Successfully admitted to Sun Yat-sen University as MPhil in Computer Science and Technology!
+    </li>
+    <li>
+      <span class="news-date">[12/2021]</span>
+      <span class="news-tag">🎉 Computer Science'21 (First Paper):</span>
+      One paper (Chinese) is accepted by "Computer Science" (CCF B, Chinese), this is my first paper!
+    </li>
+  </ul>
+</details>
 
 <h2 class="about-section-title">Experience</h2>
-<!-- <h2><b>Experience</b></h2> -->
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
-  <tr>
-    <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
-      <img src='images/OPPO_logo.png' width="300">
-    </td>
-    <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
-      <b><a href="https://ur.oppo.com/"></a>OPPO Research Institute, Y-Lab</b>
-      <br>
-      MLE intern in Vision Language Model.(Jan. 2025 - Now).
-      <br>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
-      <img src='images/sysu-removebg-preview.png' width="300">
-    </td>
-    <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
+
+<div class="experience-list">
+  <div class="experience-item">
+    <div class="experience-logo">
+      <img src="images/OPPO_logo.png" alt="OPPO logo">
+    </div>
+    <div class="experience-body">
+      <b>OPPO Research Institute, Y-Lab</b>
+      <span class="experience-date">MLE intern in Vision-Language Models. Jan. 2025 - Now.</span>
+    </div>
+  </div>
+
+  <div class="experience-item">
+    <div class="experience-logo">
+      <img src="images/sysu-removebg-preview.png" alt="Sun Yat-sen University logo">
+    </div>
+    <div class="experience-body">
       <b><a href="https://cse.sysu.edu.cn/">CSE</a>, Sun Yat-sen University</b>
-      <br>
-      Master of Computer Science and Technology.(Sept. 2023 - Now)
-      <br>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
-      <img src='images/X-Era.png' width="300">
-    </td>
-    <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
+      <span class="experience-date">Master of Computer Science and Technology. Sept. 2023 - Now.</span>
+    </div>
+  </div>
+
+  <div class="experience-item">
+    <div class="experience-logo">
+      <img src="images/X-Era.png" alt="X-Era logo">
+    </div>
+    <div class="experience-body">
       <b><a href="https://yuan-avatar.com/">X-Era</a></b>
-      <br>
-      MLE intern in avatar.(Oct. 2022 - April. 2023)
-      <br>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
-      <img src='images/jluselogo.png' width="300">
-    </td>
-    <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
-      <b><a href="http://csw.jlu.edu.cn/">College Of Software</a>, Jilin University</b>
-      <br>
-      Bachelor of Software Engineering.(Sept. 2019 - Jun. 2023)
-      <br>
-    </td>
-  </tr>
-  <!-- <tr>
-    <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
-      <img src='images/zz7zlogo.png' width="300">
-    </td>
-    <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
-      <a href="http://zz7z.zzedu.net.cn/"><b>Zhengzhou No.7 Middle School</b></a>
-      <br>
-      Middle School.(Sept. 2013 - Jun. 2019)
-      <br>
-    </td>
-  </tr> -->
-</table>
+      <span class="experience-date">MLE intern in avatar. Oct. 2022 - Apr. 2023.</span>
+    </div>
+  </div>
 
-<!-- <h4><b>Miscellaneous</b></h4> -->
-<!-- <h5><i>Articles & Projects</i></h5> -->
-
-<!-- **Selected Honors**
-
-<table style="border:none;font-size:0.95em;">
-  <tr>
-    <td style="border:none;"><i>Outstanding graduate of Jilin University </i> by Jilin University.
-    </td>
-    <td style="border:none;text-align:center;">2023
-    </td>
-  </tr>
-  <tr>
-    <td style="border:none;"><i>Jilin Bank Wang Xianghao Scholarship</i>(The highest honor of the college) by Jilin Bank & Jilin University.
-    </td>
-    <td style="border:none;text-align:center;">2022
-    </td>
-  </tr>
-  <tr>
-    <td style="border:none;"><i>CASC Scholarship</i> (15 students/14 schools) by CASC Committee.
-    </td>
-    <td style="border:none;text-align:center;">2022
-    </td>
-  </tr>
-  <tr>
-    <td style="border:none;"><i>Individual Scholarship Of Jilin University</i>  by Jilin University.
-    </td>
-    <td style="border:none;text-align:center;">2021 & 2022
-    </td>
-  </tr>
-  <tr>
-    <td style="border:none;"><i>Outstanding Student Of College of Software</i> by Jilin University.
-    </td>
-    <td style="border:none;text-align:center;">2020 & 2021 & 2022
-    </td>
-  </tr>
-  <tr>
-    <td style="border:none;"><i>First Class Scholarship Of Jilin University</i> (Top5%) by Jilin University.
-    </td>
-    <td style="border:none;text-align:center;">2020 & 2021 & 2023
-    </td>
-  </tr>
-</table> -->
+  <div class="experience-item">
+    <div class="experience-logo">
+      <img src="images/jluselogo.png" alt="Jilin University logo">
+    </div>
+    <div class="experience-body">
+      <b><a href="http://csw.jlu.edu.cn/">College of Software</a>, Jilin University</b>
+      <span class="experience-date">Bachelor of Software Engineering. Sept. 2019 - Jun. 2023.</span>
+    </div>
+  </div>
+</div>
 
 <h2 class="about-section-title">Interests</h2>
  
-Some video games 🎮 (like LOL), sports (like badminton 🏸, swimming 🏊) and a little fingerstyle guitar 🎸. Also, recording some meaningful moments in life 📷, some of them are shown in [Moments](./gallery.md).
+<p class="interests-note">Outside research, I play video games 🎮 (like LOL), badminton 🏸, swimming 🏊, and a little fingerstyle guitar 🎸. I also like collecting small windows from ordinary days; some of them live in <a href="./gallery.md">Moments</a>.</p>
 
 --------
 
-<center><b>Site Analytics</b></center>
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=150&t=n&d=T4UIhX2t22nm_qN1kFnxR_qI8tV9vvambgs4Ldcj7z0'></script>
+<div class="site-analytics">
+  <b>Site Analytics</b>
+  <br>
+  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=150&t=n&d=T4UIhX2t22nm_qN1kFnxR_qI8tV9vvambgs4Ldcj7z0'></script>
+</div>
