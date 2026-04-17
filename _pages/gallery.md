@@ -33,9 +33,9 @@ author_profile: true
 
 .timeline {
     position: relative;
-    max-width: 980px;
+    max-width: 1040px;
     margin: 0 auto;
-    padding: 1rem 0 2.5rem;
+    padding: 0.7rem 0 2.5rem;
 }
 
 .timeline::after {
@@ -45,59 +45,35 @@ author_profile: true
     background: linear-gradient(180deg, transparent, var(--gallery-line) 4%, var(--gallery-line) 96%, transparent);
     top: 0;
     bottom: 0;
-    left: 50%;
-    transform: translateX(-50%);
+    left: 76px;
 }
 
-.timeline-item {
+.timeline-section {
     position: relative;
-    width: 50%;
-    box-sizing: border-box;
-    margin: 0.4rem 0 1.4rem;
-    padding: 0 44px;
+    display: grid;
+    grid-template-columns: 132px minmax(0, 1fr);
+    gap: 1.25rem;
+    margin-bottom: 1.5rem;
 }
 
-.timeline-item::after {
+.timeline-section::before {
     content: '';
     position: absolute;
+    left: 68.5px;
+    top: 0.72rem;
+    z-index: 1;
     width: 15px;
     height: 15px;
-    top: 30px;
-    right: -7.5px;
-    z-index: 1;
     border: 3px solid var(--gallery-paper);
     border-radius: 50%;
     background: var(--gallery-accent);
     box-shadow: 0 0 0 4px rgba(47, 143, 116, 0.18);
 }
 
-.timeline-item.left {
-    left: 0;
-}
-
-.timeline-item.right {
-    left: 50%;
-}
-
-.timeline-item.right::after {
-    left: -7.5px;
-}
-
-.timeline-item::before {
-    content: '';
-    position: absolute;
-    top: 35px;
-    width: 32px;
-    height: 2px;
-    background: var(--gallery-line);
-}
-
-.timeline-item.left::before {
-    right: 10px;
-}
-
-.timeline-item.right::before {
-    left: 10px;
+.timeline-gallery {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem;
 }
 
 .timeline .content {
@@ -108,6 +84,10 @@ author_profile: true
     border-radius: 8px;
     box-shadow: 0 10px 28px rgba(31, 52, 47, 0.10);
     transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
+}
+
+.timeline .content.wide {
+    grid-column: span 2;
 }
 
 .timeline .content:hover {
@@ -129,30 +109,41 @@ author_profile: true
     transition: transform 300ms ease, filter 300ms ease;
 }
 
+.timeline .content.wide img {
+    aspect-ratio: 2.1 / 1;
+}
+
 .timeline .content:hover img {
     transform: scale(1.035);
     filter: saturate(1.06) contrast(1.02);
 }
 
 .timeline .content p {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
     margin: 0;
-    padding: 0.9rem 1rem 1rem;
-    color: var(--gallery-muted);
-    font-size: 0.9em;
+    padding: 2.7rem 0.85rem 0.75rem;
+    color: rgba(255, 255, 255, 0.84);
+    font-size: 0.84em;
     line-height: 1.55;
     text-align: left;
+    background: linear-gradient(180deg, transparent, rgba(9, 22, 19, 0.76));
 }
 
 .timeline .content p::first-line {
-    color: var(--gallery-ink);
+    color: #fff;
     font-weight: 700;
 }
 
 .timeline-year {
-    position: relative;
+    position: sticky;
+    top: 1rem;
     z-index: 2;
     width: fit-content;
-    margin: 0.2rem auto 1.1rem;
+    height: fit-content;
+    margin: 0;
     padding: 0.35rem 0.9rem;
     color: var(--gallery-ink);
     font-size: 1.15em;
@@ -189,41 +180,46 @@ author_profile: true
 
     .timeline::after {
         left: 18px;
-        transform: none;
     }
 
-    .timeline-item {
-        width: 100%;
-        margin-bottom: 1.2rem;
-        padding-left: 48px;
-        padding-right: 0;
+    .timeline-section {
+        grid-template-columns: 48px minmax(0, 1fr);
+        gap: 0.85rem;
+        margin-bottom: 1.25rem;
     }
 
-    .timeline-item.left,
-    .timeline-item.right {
-        left: 0;
-    }
-
-    .timeline-item.left::after,
-    .timeline-item.right::after {
+    .timeline-section::before {
         left: 10.5px;
-        right: auto;
-    }
-
-    .timeline-item.left::before,
-    .timeline-item.right::before {
-        left: 18px;
-        width: 22px;
+        top: 0.67rem;
     }
 
     .timeline-year {
+        position: relative;
+        top: auto;
         margin-left: 0;
         margin-right: auto;
         transform: translateX(0);
+        padding: 0.35rem 0.55rem;
+        font-size: 0.95em;
     }
 
     .timeline .content p {
-        padding: 0.8rem 0.9rem 0.9rem;
+        padding: 2.35rem 0.75rem 0.65rem;
+        font-size: 0.78em;
+    }
+}
+
+@media screen and (max-width: 560px) {
+    .timeline-gallery {
+        grid-template-columns: 1fr;
+    }
+
+    .timeline .content.wide {
+        grid-column: auto;
+    }
+
+    .timeline .content.wide img {
+        aspect-ratio: 4 / 3;
     }
 }
 
@@ -249,112 +245,102 @@ author_profile: true
 </div>
 
 <div class="timeline">
-  <div class="timeline-year">2026</div>
-  <div class="timeline-item left">
-    <div class="content">
-      <a href="/images/gallery/snow_mountian.png"><img src="/images/gallery/snow_mountian.png" alt="Snow mountain in Jiuzhaigou" loading="lazy"></a>
-      <p>“太美丽了家人们”. <br>@Jiuzhaigou, China.</p>
+  <section class="timeline-section">
+    <div class="timeline-year">2026</div>
+    <div class="timeline-gallery">
+      <div class="content wide">
+        <a href="/images/gallery/snow_mountian.png"><img src="/images/gallery/snow_mountian.png" alt="Snow mountain in Jiuzhaigou" loading="lazy"></a>
+        <p>“太美丽了家人们”. <br>@Jiuzhaigou, China.</p>
+      </div>
     </div>
-  </div>
+  </section>
 
-  <div class="timeline-year">2025</div>
-  <div class="timeline-item right">
-    <div class="content">
-      <a href="/images/gallery/somewhere.png"><img src="/images/gallery/somewhere.png" alt="Somewhere on Earth" loading="lazy"></a>
-      <p>Happy April Fools' Day <br>@Somewhere, Earth.</p>
+  <section class="timeline-section">
+    <div class="timeline-year">2025</div>
+    <div class="timeline-gallery">
+      <div class="content">
+        <a href="/images/gallery/somewhere.png"><img src="/images/gallery/somewhere.png" alt="Somewhere on Earth" loading="lazy"></a>
+        <p>Happy April Fools' Day <br>@Somewhere, Earth.</p>
+      </div>
+      <div class="content">
+        <a href="/images/gallery/dive.png"><img src="/images/gallery/dive.png" alt="Dive in Okinawa" loading="lazy"></a>
+        <p>Dive. <br>@Okinawa, Japan.</p>
+      </div>
+      <div class="content">
+        <a href="/images/gallery/kitty_claw_cloud.png"><img src="/images/gallery/kitty_claw_cloud.png" alt="Kitty claw cloud in Shenzhen" loading="lazy"></a>
+        <p>Kitty Claw. <br>@Shenzhen, China.</p>
+      </div>
+      <div class="content">
+        <a href="/images/gallery/ny_manhattan.jpg"><img src="/images/gallery/ny_manhattan.jpg" alt="Manhattan city view" loading="lazy"></a>
+        <p>A bit reward for reinforcement learning. <br>@Manhattan NYC, U.S.</p>
+      </div>
+      <div class="content wide">
+        <a href="/images/gallery/tokyo_tower_org.png"><img src="/images/gallery/tokyo_tower_org.png" alt="Tokyo Tower" loading="lazy"></a>
+        <p>"mirrors.tokyo_tower.jp" <br>@Tokyo, Japan</p>
+      </div>
     </div>
-  </div>
-  <div class="timeline-item left">
-    <div class="content">
-      <a href="/images/gallery/dive.png"><img src="/images/gallery/dive.png" alt="Dive in Okinawa" loading="lazy"></a>
-      <p>Dive. <br>@Okinawa, Japan.</p>
-    </div>
-  </div>
-  <div class="timeline-item right">
-    <div class="content">
-      <a href="/images/gallery/kitty_claw_cloud.png"><img src="/images/gallery/kitty_claw_cloud.png" alt="Kitty claw cloud in Shenzhen" loading="lazy"></a>
-      <p>Kitty Claw. <br>@Shenzhen, China.</p>
-    </div>
-  </div>
+  </section>
 
-  <div class="timeline-item left">
-    <div class="content">
-      <a href="/images/gallery/ny_manhattan.jpg"><img src="/images/gallery/ny_manhattan.jpg" alt="Manhattan city view" loading="lazy"></a>
-      <p>A bit reward for reinforcement learning. <br>@Manhattan NYC, U.S.</p>
+  <section class="timeline-section">
+    <div class="timeline-year">2024</div>
+    <div class="timeline-gallery">
+      <div class="content wide">
+        <a href="/images/gallery/past_and_future.jpg"><img src="/images/gallery/past_and_future.jpg" alt="Past and future in Zhengzhou" loading="lazy"></a>
+        <p>What's past is prologue. <br>@Zhengzhou, China</p>
+      </div>
     </div>
-  </div>
+  </section>
 
-  <div class="timeline-item right">
-    <div class="content">
-      <a href="/images/gallery/tokyo_tower_org.png"><img src="/images/gallery/tokyo_tower_org.png" alt="Tokyo Tower" loading="lazy"></a>
-      <p>"mirrors.tokyo_tower.jp" <br>@Tokyo, Japan</p>
+  <section class="timeline-section">
+    <div class="timeline-year">2023</div>
+    <div class="timeline-gallery">
+      <div class="content">
+        <a href="/images/gallery/escape.jpg"><img src="/images/gallery/escape.jpg" alt="Escape from reality in Changchun" loading="lazy"></a>
+        <p>Escape from reality. <br>@Changchun, China</p>
+      </div>
+      <div class="content">
+        <a href="/images/gallery/Sunrise_in_Changchun.jpg"><img src="/images/gallery/Sunrise_in_Changchun.jpg" alt="Sunrise in Changchun" loading="lazy"></a>
+        <p>Sunrise in Changchun. <br>@Changchun, China</p>
+      </div>
+      <div class="content wide">
+        <a href="/images/gallery/Night_view_of_Pearl_River.jpg"><img src="/images/gallery/Night_view_of_Pearl_River.jpg" alt="Night view of Pearl River" loading="lazy"></a>
+        <p>Night View Of Pearl River. <br>@Guangzhou, China</p>
+      </div>
     </div>
-  </div>
-
-  <div class="timeline-year">2024</div>
-
-  <div class="timeline-item left">
-    <div class="content">
-      <a href="/images/gallery/past_and_future.jpg"><img src="/images/gallery/past_and_future.jpg" alt="Past and future in Zhengzhou" loading="lazy"></a>
-      <p>What's past is prologue. <br>@Zhengzhou, China</p>
-    </div>
-  </div>
-
-  <div class="timeline-year">2023</div>
-
-  <div class="timeline-item right">
-    <div class="content">
-      <a href="/images/gallery/escape.jpg"><img src="/images/gallery/escape.jpg" alt="Escape from reality in Changchun" loading="lazy"></a>
-      <p>Escape from reality. <br>@Changchun, China</p>
-    </div>
-  </div>
+  </section>
   
-  <div class="timeline-item left">
-    <div class="content">
-      <a href="/images/gallery/Sunrise_in_Changchun.jpg"><img src="/images/gallery/Sunrise_in_Changchun.jpg" alt="Sunrise in Changchun" loading="lazy"></a>
-      <p>Sunrise in Changchun. <br>@Changchun, China</p>
+  <section class="timeline-section">
+    <div class="timeline-year">2022</div>
+    <div class="timeline-gallery">
+      <div class="content wide">
+        <a href="/images/gallery/YangtzeRiver.jpg"><img src="/images/gallery/YangtzeRiver.jpg" alt="Yangtze River in Wuhan" loading="lazy"></a>
+        <p>Yangtze River. <br>@Wuhan, China</p>
+      </div>
     </div>
-  </div>
-
-  <div class="timeline-item right">
-    <div class="content">
-      <a href="/images/gallery/Night_view_of_Pearl_River.jpg"><img src="/images/gallery/Night_view_of_Pearl_River.jpg" alt="Night view of Pearl River" loading="lazy"></a>
-      <p>Night View Of Pearl River. <br>@Guangzhou, China</p>
+  </section>
+  
+  <section class="timeline-section">
+    <div class="timeline-year">2020</div>
+    <div class="timeline-gallery">
+      <div class="content wide">
+        <a href="/images/gallery/lijiang.jpg"><img src="/images/gallery/lijiang.jpg" alt="Lijiang scenery" loading="lazy"></a>
+        <p>Hopes. <br>@Lijiang, China</p>
+      </div>
     </div>
-  </div>
+  </section>
   
-  <div class="timeline-year">2022</div>
-  
-  <div class="timeline-item left">
-    <div class="content">
-      <a href="/images/gallery/YangtzeRiver.jpg"><img src="/images/gallery/YangtzeRiver.jpg" alt="Yangtze River in Wuhan" loading="lazy"></a>
-      <p>Yangtze River. <br>@Wuhan, China</p>
+  <section class="timeline-section">
+    <div class="timeline-year">2019</div>
+    <div class="timeline-gallery">
+      <div class="content">
+        <a href="/images/gallery/snowinoct.jpg"><img src="/images/gallery/snowinoct.jpg" alt="Snow in October in Changchun" loading="lazy"></a>
+        <p>Snow in october. <br>@Changchun, China</p>
+      </div>
+      <div class="content">
+        <a href="/images/gallery/zz7z.png"><img src="/images/gallery/zz7z.png" alt="Windowpane in Zhengzhou No.7" loading="lazy"></a>
+        <p>Windowpane in Zhengzhou No.7 <br>@Zhengzhou, China</p>
+      </div>
     </div>
-  </div>
-  
-  <div class="timeline-year">2020</div>
-  
-  <div class="timeline-item right">
-    <div class="content">
-      <a href="/images/gallery/lijiang.jpg"><img src="/images/gallery/lijiang.jpg" alt="Lijiang scenery" loading="lazy"></a>
-      <p>Hopes. <br>@Lijiang, China</p>
-    </div>
-  </div>
-  
-  <div class="timeline-year">2019</div>
-  
-  <div class="timeline-item left">
-    <div class="content">
-      <a href="/images/gallery/snowinoct.jpg"><img src="/images/gallery/snowinoct.jpg" alt="Snow in October in Changchun" loading="lazy"></a>
-      <p>Snow in october. <br>@Changchun, China</p>
-    </div>
-  </div>
-
-  <div class="timeline-item right">
-    <div class="content">
-      <a href="/images/gallery/zz7z.png"><img src="/images/gallery/zz7z.png" alt="Windowpane in Zhengzhou No.7" loading="lazy"></a>
-      <p>Windowpane in Zhengzhou No.7 <br>@Zhengzhou, China</p>
-    </div>
-  </div>
+  </section>
 
 </div>
