@@ -252,6 +252,10 @@ author_profile: true
         <a href="/images/gallery/snow_mountian.png"><img src="/images/gallery/snow_mountian.png" alt="Snow mountain in Jiuzhaigou" loading="lazy"></a>
         <p>“太美丽了家人们”. <br>@Jiuzhaigou, China.</p>
       </div>
+      <div class="content wide">
+        <a href="/images/gallery/DT_in_GZ.jpeg"><img src="/images/gallery/DT_in_GZ.jpeg" alt="Moment in Guangzhou" loading="lazy"></a>
+        <p>没有人能代替 <br>@Guangzhou, China.</p>
+      </div>
     </div>
   </section>
 
