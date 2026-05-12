@@ -224,6 +224,11 @@ redirect_from:
 
 <ul class="news-list">
   <li>
+    <span class="news-date">[05/2026]</span>
+    <span class="news-tag">🎉 New Work:</span>
+    Our new paper <a href="https://arxiv.org/abs/2605.09591">From Pixels to Concepts</a> is now on arXiv.
+  </li>
+  <li>
     <span class="news-date">[03/2026]</span>
     <span class="news-tag">CVPR'26:</span>
     TimeCausality will present in DataMFM Workshop in CVPR2026!
