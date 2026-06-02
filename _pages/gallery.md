@@ -248,9 +248,13 @@ author_profile: true
   <section class="timeline-section">
     <div class="timeline-year">2026</div>
     <div class="timeline-gallery">
-      <div class="content wide">
+      <div class="content">
         <a href="/images/gallery/DT_in_GZ.jpeg"><img src="/images/gallery/DT_in_GZ.jpeg" alt="Moment in Guangzhou" loading="lazy"></a>
         <p>没有人能代替 <br>@Guangzhou, China.</p>
+      </div>
+      <div class="content">
+        <a href="/images/gallery/cloud_city.jpg"><img src="/images/gallery/cloud_city.jpg" alt="Cloud city in Melbourne" loading="lazy"></a>
+        <p>the core of man's spirit comes from new experiences <br>@Melbourne, Australia.</p>
       </div>
       <div class="content wide">
         <a href="/images/gallery/snow_mountian.png"><img src="/images/gallery/snow_mountian.png" alt="Snow mountain in Jiuzhaigou" loading="lazy"></a>
