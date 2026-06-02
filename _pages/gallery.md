@@ -137,6 +137,11 @@ author_profile: true
     font-weight: 700;
 }
 
+.timeline .content p strong {
+    color: #fff;
+    font-weight: 700;
+}
+
 .timeline-year {
     position: sticky;
     top: 1rem;
@@ -241,7 +246,7 @@ author_profile: true
 
 
 <div class="gallery-intro">
-  <p>Little windows from places I loved, years I don't want to lose.</p>
+  <p>Life is a collection of moments.</p>
 </div>
 
 <div class="timeline">
@@ -254,7 +259,7 @@ author_profile: true
       </div>
       <div class="content">
         <a href="/images/gallery/cloud_city.jpg"><img src="/images/gallery/cloud_city.jpg" alt="Cloud city in Melbourne" loading="lazy"></a>
-        <p>the core of man's spirit comes from new experiences <br>@Melbourne, Australia.</p>
+        <p><strong>the core of man's spirit comes from new experiences</strong> <br>@Melbourne, Australia.</p>
       </div>
       <div class="content wide">
         <a href="/images/gallery/snow_mountian.png"><img src="/images/gallery/snow_mountian.png" alt="Snow mountain in Jiuzhaigou" loading="lazy"></a>
