@@ -224,6 +224,11 @@ redirect_from:
 
 <ul class="news-list">
   <li>
+    <span class="news-date">[06/2026]</span>
+    <span class="news-tag">ECCV'26:</span>
+    🎉 PhyDetEx and TIIF-Bench are accepted by ECCV 2026 (CCF B)! See <a href="https://github.com/Zeqing-Wang/PhyDetEx">PhyDetEx</a> and <a href="https://github.com/A113N-W3I/TIIF-Bench">TIIF-Bench</a>.
+  </li>
+  <li>
     <span class="news-date">[05/2026]</span>
     <span class="news-tag">🎉 New Work:</span>
     Our new paper <a href="https://arxiv.org/abs/2605.09591">From Pixels to Concepts</a> is now on arXiv.

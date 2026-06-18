@@ -199,6 +199,35 @@ author_profile: true
     </li>
 
     <li class="pub-item">
+      <p class="pub-title">PhyDetEx: Detecting and Explaining the Physical Plausibility of T2V Models</p>
+      <p class="pub-authors"><strong>Zeqing Wang</strong>, Keze Wang, and Lei Zhang.</p>
+      <p class="pub-meta">
+        <span class="pub-venue">ECCV 2026</span>
+        <span class="pub-tags">
+          <span class="pub-tag">CCF-B</span>
+        </span>
+      </p>
+      <div class="pub-links">
+        <a class="pub-link" href="https://github.com/Zeqing-Wang/PhyDetEx">Code & Ckpt</a>
+      </div>
+    </li>
+
+    <li class="pub-item">
+      <p class="pub-title">TIIF-Bench: How Does Your T2I Model Follow Your Instructions?</p>
+      <p class="pub-authors">Xinyu Wei, Jinrui Zhang, <strong>Zeqing Wang</strong>, Hongyang Wei, Zhen Guo, and Lei Zhang.</p>
+      <p class="pub-meta">
+        <span class="pub-venue">ECCV 2026</span>
+        <span class="pub-tags">
+          <span class="pub-tag">CCF-B</span>
+        </span>
+      </p>
+      <div class="pub-links">
+        <a class="pub-link" href="https://www.arxiv.org/abs/2506.02161">arXiv</a>
+        <a class="pub-link" href="https://github.com/A113N-W3I/TIIF-Bench">Code</a>
+      </div>
+    </li>
+
+    <li class="pub-item">
       <p class="pub-title">Mimic: Speaking Style Disentanglement for Speech-Driven 3D Facial Animation</p>
       <p class="pub-authors">Hui Fu, <strong>Zeqing Wang</strong>, Ke Gong, Keze Wang, Tianshui Chen, Haojie Li, Haifeng Zeng, and Wenxiong Kang.</p>
       <p class="pub-meta">
@@ -238,29 +267,6 @@ author_profile: true
       </p>
       <div class="pub-links">
         <a class="pub-link" href="https://www.naptmn.cn/Homepage_of_VideoVerse/">Homepage & Leaderboard</a>
-      </div>
-    </li>
-
-    <li class="pub-item">
-      <p class="pub-title">PhyDetEx: Detecting and Explaining the Physical Plausibility of T2V Models</p>
-      <p class="pub-authors"><strong>Zeqing Wang</strong>, Keze Wang, and Lei Zhang.</p>
-      <p class="pub-meta">
-        <span class="pub-venue">preprint</span>
-      </p>
-      <div class="pub-links">
-        <a class="pub-link" href="https://github.com/Zeqing-Wang/PhyDetEx">Code & Ckpt</a>
-      </div>
-    </li>
-
-    <li class="pub-item">
-      <p class="pub-title">TIIF-Bench: How Does Your T2I Model Follow Your Instructions?</p>
-      <p class="pub-authors">Xinyu Wei, Jinrui Zhang, <strong>Zeqing Wang</strong>, Hongyang Wei, Zhen Guo, and Lei Zhang.</p>
-      <p class="pub-meta">
-        <span class="pub-venue">preprint</span>
-      </p>
-      <div class="pub-links">
-        <a class="pub-link" href="https://www.arxiv.org/abs/2506.02161">arXiv</a>
-        <a class="pub-link" href="https://github.com/A113N-W3I/TIIF-Bench">Code</a>
       </div>
     </li>
 
