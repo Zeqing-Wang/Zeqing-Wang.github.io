@@ -204,15 +204,16 @@ redirect_from:
 <div class="about-hero">
   <div class="about-badges">
     <img alt="BSc, Jilin University, 2019-2023" src="https://img.shields.io/badge/B.Sc.-Jilin%20Univ.%20(2019--2023)-yellowgreen?style=flat-square&color=181717&labelColor=red">
-    <img alt="MPhil, Sun Yat-sen University, 2023-Now" src="https://img.shields.io/badge/MPhil.-SYSU.%20(2023--Now)-yellowgreen?style=flat-square&color=181717&labelColor=blue">
+    <img alt="MPhil, Sun Yat-sen University, 2023-2026" src="https://img.shields.io/badge/MPhil.-SYSU.%20(2023--2026)-yellowgreen?style=flat-square&color=181717&labelColor=blue">
+    <img alt="PhD, The Hong Kong Polytechnic University, 2026-Now" src="https://img.shields.io/badge/Ph.D.-PolyU%20(2026--Now)-yellowgreen?style=flat-square&color=181717&labelColor=AA1E2D">
   </div>
 
   <p class="about-motto"><del><b>Yesterday</b></del> <b>Today</b> <del><b>Tomorrow</b></del></p>
   <p class="about-tagline">I work on vision-language models, multimodal reasoning, and the tiny joyful things between research deadlines.</p>
 
-  <p>🧑‍🎓 I am currently a graduate student in the <a href="https://cse.sysu.edu.cn/">School of Computer Science and Engineering</a>, <a href="https://www.sysu.edu.cn/">Sun Yat-sen University</a>, and a member of <a href="https://www.sysu-hcp.net/">HCP Lab</a>, advised by Professor <a href="https://kezewang.com/">Keze Wang</a>. My recent research focuses on VLMs (Vision-Language Models). Here is my <b><a href="/files/WZQ_CV_UPDATE_TO_260406.pdf">CV</a></b>.</p>
+  <p>🧑‍🎓 I am currently a first-year Ph.D. student in the <a href="https://www.polyu.edu.hk/comp/">Department of Computing (COMP)</a> at <a href="https://www.polyu.edu.hk/">The Hong Kong Polytechnic University (PolyU)</a>. My recent research focuses on VLMs (Vision-Language Models). Here is my <b><a href="/files/WZQ_CV_UPDATE_TO_260406.pdf">CV</a></b>.</p>
 
-  <p>Before that, I received my bachelor's degree in <a href="http://csw.jlu.edu.cn/info/1080/2824.htm">Software Engineering (Pilot Program in Engineering)</a> from <a href="https://www.jlu.edu.cn/">Jilin University</a>. During my undergraduate years, I worked on bioinformatics with Professor <a href="https://www.healthinformaticslab.org/">Fengfeng Zhou</a>, and on software development 🔧 and Re-ID with Professor <a href="https://ccst.jlu.edu.cn/info/1196/17217.htm">Xiaosong Han</a>. I am truly fortunate to have been guided by two kind professors :>!</p>
+  <p>Before that, I received my MPhil degree in Computer Science and Technology from <a href="https://www.sysu.edu.cn/">Sun Yat-sen University</a>, where I was a member of <a href="https://www.sysu-hcp.net/">HCP Lab</a> advised by Professor <a href="https://kezewang.com/">Keze Wang</a>. I received my bachelor's degree in <a href="http://csw.jlu.edu.cn/info/1080/2824.htm">Software Engineering (Pilot Program in Engineering)</a> from <a href="https://www.jlu.edu.cn/">Jilin University</a>. During my undergraduate years, I worked on bioinformatics with Professor <a href="https://www.healthinformaticslab.org/">Fengfeng Zhou</a>, and on software development 🔧 and Re-ID with Professor <a href="https://ccst.jlu.edu.cn/info/1196/17217.htm">Xiaosong Han</a>. I am truly fortunate to have been guided by these kind professors :>!</p>
 
   <div class="about-contact">
     <i class="fa fa-fw fa-envelope"></i>
@@ -306,6 +307,16 @@ redirect_from:
 <div class="experience-list">
   <div class="experience-item">
     <div class="experience-logo">
+      <img src="images/polyu-logo.jpg" alt="The Hong Kong Polytechnic University logo">
+    </div>
+    <div class="experience-body">
+      <b><a href="https://www.polyu.edu.hk/comp/">COMP</a>, The Hong Kong Polytechnic University</b>
+      <span class="experience-date">Ph.D. student in Computing. 2026 - Now.</span>
+    </div>
+  </div>
+
+  <div class="experience-item">
+    <div class="experience-logo">
       <img src="images/OPPO_logo.png" alt="OPPO logo">
     </div>
     <div class="experience-body">
@@ -320,7 +331,7 @@ redirect_from:
     </div>
     <div class="experience-body">
       <b><a href="https://cse.sysu.edu.cn/">CSE</a>, Sun Yat-sen University</b>
-      <span class="experience-date">Master of Computer Science and Technology. Sept. 2023 - Now.</span>
+      <span class="experience-date">MPhil in Computer Science and Technology. Sept. 2023 - Jun. 2026.</span>
     </div>
   </div>
 
