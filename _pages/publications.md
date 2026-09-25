@@ -142,7 +142,7 @@ author_profile: true
   <ul class="pub-list">
     <li class="pub-item">
       <p class="pub-title">From Pixels to Concepts: Do Segmentation Models Understand What They Segment?</p>
-      <p class="pub-authors">Shuang Liang, <strong>Zeqing Wang</strong>, Yuxian Li, Xihui Liu, and Han Wang.</p>
+      <p class="pub-authors">Shuang Liang*, <strong>Zeqing Wang*</strong>, Yuxian Li, Xihui Liu, and Han Wang.</p>
       <p class="pub-meta">
         <span class="pub-venue">NeurIPS 2026 E&amp;D Track</span>
         <span class="pub-tags">
