@@ -141,6 +141,20 @@ author_profile: true
 
   <ul class="pub-list">
     <li class="pub-item">
+      <p class="pub-title">From Pixels to Concepts: Do Segmentation Models Understand What They Segment?</p>
+      <p class="pub-authors">Shuang Liang, <strong>Zeqing Wang</strong>, Yuxian Li, Xihui Liu, and Han Wang.</p>
+      <p class="pub-meta">
+        <span class="pub-venue">NeurIPS 2026 E&amp;D Track</span>
+        <span class="pub-tags">
+          <span class="pub-tag">CCF-A</span>
+        </span>
+      </p>
+      <div class="pub-links">
+        <a class="pub-link" href="https://arxiv.org/abs/2605.09591">arXiv</a>
+      </div>
+    </li>
+
+    <li class="pub-item">
       <p class="pub-title">TimeCausality: Evaluating the Causal Ability in Time Dimension for Vision Language Models</p>
       <p class="pub-authors"><strong>Zeqing Wang*</strong>, Shiyuan Zhang*, Chengpei Tang, and Keze Wang.</p>
       <p class="pub-meta">
@@ -248,17 +262,6 @@ author_profile: true
   <h2 id="preprints-and-more" class="pub-section-title">Preprints & More</h2>
 
   <ul class="pub-list">
-    <li class="pub-item">
-      <p class="pub-title">From Pixels to Concepts: Do Segmentation Models Understand What They Segment?</p>
-      <p class="pub-authors">Shuang Liang, <strong>Zeqing Wang</strong>, Yuxian Li, Xihui Liu, and Han Wang.</p>
-      <p class="pub-meta">
-        <span class="pub-venue">preprint</span>
-      </p>
-      <div class="pub-links">
-        <a class="pub-link" href="https://arxiv.org/abs/2605.09591">arXiv</a>
-      </div>
-    </li>
-
     <li class="pub-item">
       <p class="pub-title">VideoVerse: How Far is Your T2V Generator from a World Model?</p>
       <p class="pub-authors"><strong>Zeqing Wang*</strong>, Xinyu Wei*, Bairui Li*, Zhen Guo, Jinrui Zhang, Hongyang Wei, Keze Wang, and Lei Zhang.</p>

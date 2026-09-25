@@ -225,6 +225,11 @@ redirect_from:
 
 <ul class="news-list">
   <li>
+    <span class="news-date">[09/2026]</span>
+    <span class="news-tag">NeurIPS'26:</span>
+    🎉 <a href="https://arxiv.org/abs/2605.09591">CAFE (From Pixels to Concepts)</a> is accepted by NeurIPS 2026 E&amp;D Track (CCF A)!
+  </li>
+  <li>
     <span class="news-date">[06/2026]</span>
     <span class="news-tag">ECCV'26:</span>
     🎉 PhyDetEx and TIIF-Bench are accepted by ECCV 2026 (CCF B)! See <a href="https://github.com/Zeqing-Wang/PhyDetEx">PhyDetEx</a> and <a href="https://github.com/A113N-W3I/TIIF-Bench">TIIF-Bench</a>.
