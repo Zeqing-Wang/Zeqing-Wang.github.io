@@ -210,7 +210,7 @@ redirect_from:
 
   <div class="about-contact">
     <i class="fa fa-fw fa-envelope"></i>
-    Mail: <a href="mailto:wangzeqing1005@163.com">wangzeqing1005[AT]163.com</a> or <a href="mailto:wangzq73@mail2.sysu.edu.cn">wangzq73[AT]mail2.sysu.edu.cn</a>
+    Mail: <a href="mailto:zeqing.wang@connect.polyu.hk">zeqing.wang[AT]connect.polyu.hk</a> or <a href="mailto:wangzq73@mail2.sysu.edu.cn">wangzq73[AT]mail2.sysu.edu.cn</a>
   </div>
 </div>
 
@@ -242,31 +242,31 @@ redirect_from:
     <span class="news-tag">CVPR'26:</span>
     TimeCausality will present in DataMFM Workshop in CVPR2026!
   </li>
-  <li>
-    <span class="news-date">[02/2026]</span>
-    <span class="news-tag">CVPR'26:</span>
-    MICo-150K is accepted by CVPR2026 (CCF A)!
-  </li>
-  <li>
-    <span class="news-date">[10/2025]</span>
-    <span class="news-tag">🎉 New Work:</span>
-    🎉 Evaluating the current powerful "world model"! See our latest work <a href="https://www.naptmn.cn/Homepage_of_VideoVerse/">VideoVerse</a>.
-  </li>
-  <li>
-    <span class="news-date">[06/2025]</span>
-    <span class="news-tag">🎉 New Work:</span>
-    🤔 What can the powerful GPT4o do and provide? See our latest work <a href="https://github.com/Zeqing-Wang/TimeCausality">TimeCausality</a> and <a href="https://github.com/A113N-W3I/TIIF-Bench">TIIF-Bench!</a>
-  </li>
-  <li>
-    <span class="news-date">[05/2025]</span>
-    <span class="news-tag">TMM'25:</span>
-    One paper about Multi-Agent framework for VQA is accepted by IEEE Transactions on Multimedia (TMM, CCF B, Q1)!
-  </li>
 </ul>
 
 <details class="news-more">
   <summary>Earlier news</summary>
   <ul class="news-list">
+    <li>
+      <span class="news-date">[02/2026]</span>
+      <span class="news-tag">CVPR'26:</span>
+      MICo-150K is accepted by CVPR2026 (CCF A)!
+    </li>
+    <li>
+      <span class="news-date">[10/2025]</span>
+      <span class="news-tag">🎉 New Work:</span>
+      🎉 Evaluating the current powerful "world model"! See our latest work <a href="https://www.naptmn.cn/Homepage_of_VideoVerse/">VideoVerse</a>.
+    </li>
+    <li>
+      <span class="news-date">[06/2025]</span>
+      <span class="news-tag">🎉 New Work:</span>
+      🤔 What can the powerful GPT4o do and provide? See our latest work <a href="https://github.com/Zeqing-Wang/TimeCausality">TimeCausality</a> and <a href="https://github.com/A113N-W3I/TIIF-Bench">TIIF-Bench!</a>
+    </li>
+    <li>
+      <span class="news-date">[05/2025]</span>
+      <span class="news-tag">TMM'25:</span>
+      One paper about Multi-Agent framework for VQA is accepted by IEEE Transactions on Multimedia (TMM, CCF B, Q1)!
+    </li>
     <li>
       <span class="news-date">[02/2025]</span>
       <span class="news-tag">CVPR'25:</span>
