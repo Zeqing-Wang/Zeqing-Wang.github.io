@@ -254,6 +254,10 @@ author_profile: true
     <div class="timeline-year">2026</div>
     <div class="timeline-gallery">
       <div class="content">
+        <a href="/images/gallery/spike_for_point.JPG"><img src="/images/gallery/spike_for_point.JPG" alt="Stone marker with Lomma's coordinates by the harbour in Sweden" loading="lazy" style="object-position: center bottom;"></a>
+        <p>A little impulse can take you exactly where you want to be. <br>@Lomma, Sweden.</p>
+      </div>
+      <div class="content">
         <a href="/images/gallery/DT_in_GZ.jpeg"><img src="/images/gallery/DT_in_GZ.jpeg" alt="Moment in Guangzhou" loading="lazy"></a>
         <p>没有人能代替 <br>@Guangzhou, China.</p>
       </div>
