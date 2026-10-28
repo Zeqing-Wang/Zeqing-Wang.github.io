@@ -263,6 +263,20 @@ author_profile: true
 
   <ul class="pub-list">
     <li class="pub-item">
+      <p class="pub-title">OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and Understanding</p>
+      <p class="pub-authors">Xuyang Liu, Shihao Wang, Xinyu Wei, Minghan Li, <strong>Zeqing Wang</strong>, Zuhao Yang, Zichen Wen, and Lei Zhang.</p>
+      <p class="pub-meta">
+        <span class="pub-venue">arXiv preprint, 2026</span>
+      </p>
+      <div class="pub-links">
+        <a class="pub-link" href="https://arxiv.org/abs/2610.18829">arXiv</a>
+        <a class="pub-link" href="https://omnicompass.netlify.app/">Project Page</a>
+        <a class="pub-link" href="https://github.com/PolyU-VCLab/OmniCompass">Code</a>
+        <a class="pub-link" href="https://huggingface.co/datasets/VCLab-PolyU/OmniCompass">Dataset</a>
+      </div>
+    </li>
+
+    <li class="pub-item">
       <p class="pub-title">VideoVerse: How Far is Your T2V Generator from a World Model?</p>
       <p class="pub-authors"><strong>Zeqing Wang*</strong>, Xinyu Wei*, Bairui Li*, Zhen Guo, Jinrui Zhang, Hongyang Wei, Keze Wang, and Lei Zhang.</p>
       <p class="pub-meta">

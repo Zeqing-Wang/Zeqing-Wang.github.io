@@ -177,13 +177,6 @@ redirect_from:
     line-height: 1.7;
   }
 
-  .site-analytics {
-    margin-top: 2rem;
-    text-align: center;
-    color: var(--about-muted);
-    font-size: 0.9em;
-  }
-
   @media screen and (max-width: 560px) {
     .about-hero {
       padding: 1rem;
@@ -224,6 +217,11 @@ redirect_from:
 <h2 class="about-section-title">What's New</h2>
 
 <ul class="news-list">
+  <li>
+    <span class="news-date">[10/2026]</span>
+    <span class="news-tag">New Work:</span>
+    Our new paper <a href="https://omnicompass.netlify.app/">OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and Understanding</a> is now on <a href="https://arxiv.org/abs/2610.18829">arXiv</a>.
+  </li>
   <li>
     <span class="news-date">[09/2026]</span>
     <span class="news-tag">NeurIPS'26:</span>
@@ -363,12 +361,4 @@ redirect_from:
 
 <h2 class="about-section-title">Interests</h2>
  
-<p class="interests-note">Outside research, I play video games 🎮 (like LOL), badminton 🏸, swimming 🏊, and a little fingerstyle guitar 🎸. I also like collecting small windows from ordinary days; some of them live in <a href="./gallery.md">Moments</a>.</p>
-
---------
-
-<div class="site-analytics">
-  <b>Site Analytics</b>
-  <br>
-  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=150&t=n&d=T4UIhX2t22nm_qN1kFnxR_qI8tV9vvambgs4Ldcj7z0'></script>
-</div>
+<p class="interests-note">Outside research, I play video games 🎮 (like LOL), badminton 🏸, swimming 🏊, and a little fingerstyle guitar 🎸. I also like collecting small windows from ordinary days; some of them live in <a href="/gallery/">Moments</a>.</p>
